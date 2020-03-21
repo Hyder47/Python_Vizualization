@@ -1,0 +1,3265 @@
+Council Name,Council Type,Year,Month,ESB Connection
+Cork,City Council,2006,Jan,39
+Cork,City Council,2006,Feb,22
+Cork,City Council,2006,Mar,93
+Cork,City Council,2006,Apr,31
+Cork,City Council,2006,May,162
+Cork,City Council,2006,Jun,110
+Cork,City Council,2006,Jul,57
+Cork,City Council,2006,Aug,141
+Cork,City Council,2006,Sept,96
+Cork,City Council,2006,Oct,103
+Cork,City Council,2006,Nov,108
+Cork,City Council,2006,Dec,103
+Dublin,City Council,2006,Jan,757
+Dublin,City Council,2006,Feb,618
+Dublin,City Council,2006,Mar,560
+Dublin,City Council,2006,Apr,225
+Dublin,City Council,2006,May,496
+Dublin,City Council,2006,Jun,717
+Dublin,City Council,2006,Jul,685
+Dublin,City Council,2006,Aug,783
+Dublin,City Council,2006,Sept,847
+Dublin,City Council,2006,Oct,690
+Dublin,City Council,2006,Nov,755
+Dublin,City Council,2006,Dec,613
+Galway,City Council,2006,Jan,68
+Galway,City Council,2006,Feb,107
+Galway,City Council,2006,Mar,57
+Galway,City Council,2006,Apr,72
+Galway,City Council,2006,May,199
+Galway,City Council,2006,Jun,75
+Galway,City Council,2006,Jul,48
+Galway,City Council,2006,Aug,55
+Galway,City Council,2006,Sept,229
+Galway,City Council,2006,Oct,137
+Galway,City Council,2006,Nov,142
+Galway,City Council,2006,Dec,86
+Limerick,City Council,2006,Jan,19
+Limerick,City Council,2006,Feb,10
+Limerick,City Council,2006,Mar,80
+Limerick,City Council,2006,Apr,32
+Limerick,City Council,2006,May,17
+Limerick,City Council,2006,Jun,22
+Limerick,City Council,2006,Jul,17
+Limerick,City Council,2006,Aug,11
+Limerick,City Council,2006,Sept,40
+Limerick,City Council,2006,Oct,12
+Limerick,City Council,2006,Nov,50
+Limerick,City Council,2006,Dec,79
+Waterford,City Council,2006,Jan,69
+Waterford,City Council,2006,Feb,33
+Waterford,City Council,2006,Mar,91
+Waterford,City Council,2006,Apr,34
+Waterford,City Council,2006,May,63
+Waterford,City Council,2006,Jun,68
+Waterford,City Council,2006,Jul,116
+Waterford,City Council,2006,Aug,82
+Waterford,City Council,2006,Sept,42
+Waterford,City Council,2006,Oct,82
+Waterford,City Council,2006,Nov,85
+Waterford,City Council,2006,Dec,63
+Carlow,County Council,2006,Jan,70
+Carlow,County Council,2006,Feb,81
+Carlow,County Council,2006,Mar,113
+Carlow,County Council,2006,Apr,56
+Carlow,County Council,2006,May,97
+Carlow,County Council,2006,Jun,125
+Carlow,County Council,2006,Jul,158
+Carlow,County Council,2006,Aug,141
+Carlow,County Council,2006,Sept,96
+Carlow,County Council,2006,Oct,142
+Carlow,County Council,2006,Nov,182
+Carlow,County Council,2006,Dec,60
+Cavan,County Council,2006,Jan,149
+Cavan,County Council,2006,Feb,208
+Cavan,County Council,2006,Mar,197
+Cavan,County Council,2006,Apr,261
+Cavan,County Council,2006,May,201
+Cavan,County Council,2006,Jun,248
+Cavan,County Council,2006,Jul,308
+Cavan,County Council,2006,Aug,199
+Cavan,County Council,2006,Sept,237
+Cavan,County Council,2006,Oct,203
+Cavan,County Council,2006,Nov,259
+Cavan,County Council,2006,Dec,219
+Clare,County Council,2006,Jan,171
+Clare,County Council,2006,Feb,251
+Clare,County Council,2006,Mar,264
+Clare,County Council,2006,Apr,200
+Clare,County Council,2006,May,242
+Clare,County Council,2006,Jun,324
+Clare,County Council,2006,Jul,195
+Clare,County Council,2006,Aug,164
+Clare,County Council,2006,Sept,155
+Clare,County Council,2006,Oct,252
+Clare,County Council,2006,Nov,296
+Clare,County Council,2006,Dec,213
+Cork,County Council,2006,Jan,588
+Cork,County Council,2006,Feb,615
+Cork,County Council,2006,Mar,676
+Cork,County Council,2006,Apr,554
+Cork,County Council,2006,May,702
+Cork,County Council,2006,Jun,602
+Cork,County Council,2006,Jul,702
+Cork,County Council,2006,Aug,592
+Cork,County Council,2006,Sept,630
+Cork,County Council,2006,Oct,810
+Cork,County Council,2006,Nov,900
+Cork,County Council,2006,Dec,705
+Donegal,County Council,2006,Jan,285
+Donegal,County Council,2006,Feb,450
+Donegal,County Council,2006,Mar,342
+Donegal,County Council,2006,Apr,217
+Donegal,County Council,2006,May,365
+Donegal,County Council,2006,Jun,439
+Donegal,County Council,2006,Jul,350
+Donegal,County Council,2006,Aug,276
+Donegal,County Council,2006,Sept,328
+Donegal,County Council,2006,Oct,475
+Donegal,County Council,2006,Nov,503
+Donegal,County Council,2006,Dec,357
+Dun Laoghaire,County Council,2006,Jan,241
+Dun Laoghaire,County Council,2006,Feb,172
+Dun Laoghaire,County Council,2006,Mar,260
+Dun Laoghaire,County Council,2006,Apr,138
+Dun Laoghaire,County Council,2006,May,251
+Dun Laoghaire,County Council,2006,Jun,278
+Dun Laoghaire,County Council,2006,Jul,134
+Dun Laoghaire,County Council,2006,Aug,329
+Dun Laoghaire,County Council,2006,Sept,155
+Dun Laoghaire,County Council,2006,Oct,148
+Dun Laoghaire,County Council,2006,Nov,162
+Dun Laoghaire,County Council,2006,Dec,204
+Fingal,County Council,2006,Jan,305
+Fingal,County Council,2006,Feb,566
+Fingal,County Council,2006,Mar,550
+Fingal,County Council,2006,Apr,481
+Fingal,County Council,2006,May,484
+Fingal,County Council,2006,Jun,399
+Fingal,County Council,2006,Jul,488
+Fingal,County Council,2006,Aug,385
+Fingal,County Council,2006,Sept,560
+Fingal,County Council,2006,Oct,479
+Fingal,County Council,2006,Nov,623
+Fingal,County Council,2006,Dec,543
+Galway,County Council,2006,Jan,324
+Galway,County Council,2006,Feb,404
+Galway,County Council,2006,Mar,400
+Galway,County Council,2006,Apr,348
+Galway,County Council,2006,May,307
+Galway,County Council,2006,Jun,368
+Galway,County Council,2006,Jul,470
+Galway,County Council,2006,Aug,274
+Galway,County Council,2006,Sept,380
+Galway,County Council,2006,Oct,357
+Galway,County Council,2006,Nov,437
+Galway,County Council,2006,Dec,443
+Kerry,County Council,2006,Jan,226
+Kerry,County Council,2006,Feb,259
+Kerry,County Council,2006,Mar,260
+Kerry,County Council,2006,Apr,248
+Kerry,County Council,2006,May,247
+Kerry,County Council,2006,Jun,417
+Kerry,County Council,2006,Jul,375
+Kerry,County Council,2006,Aug,343
+Kerry,County Council,2006,Sept,321
+Kerry,County Council,2006,Oct,408
+Kerry,County Council,2006,Nov,444
+Kerry,County Council,2006,Dec,405
+Kildare,County Council,2006,Jan,413
+Kildare,County Council,2006,Feb,335
+Kildare,County Council,2006,Mar,335
+Kildare,County Council,2006,Apr,363
+Kildare,County Council,2006,May,476
+Kildare,County Council,2006,Jun,370
+Kildare,County Council,2006,Jul,510
+Kildare,County Council,2006,Aug,281
+Kildare,County Council,2006,Sept,532
+Kildare,County Council,2006,Oct,371
+Kildare,County Council,2006,Nov,381
+Kildare,County Council,2006,Dec,437
+Kilkenny,County Council,2006,Jan,128
+Kilkenny,County Council,2006,Feb,122
+Kilkenny,County Council,2006,Mar,119
+Kilkenny,County Council,2006,Apr,125
+Kilkenny,County Council,2006,May,154
+Kilkenny,County Council,2006,Jun,114
+Kilkenny,County Council,2006,Jul,111
+Kilkenny,County Council,2006,Aug,167
+Kilkenny,County Council,2006,Sept,155
+Kilkenny,County Council,2006,Oct,186
+Kilkenny,County Council,2006,Nov,228
+Kilkenny,County Council,2006,Dec,160
+Laois,County Council,2006,Jan,234
+Laois,County Council,2006,Feb,214
+Laois,County Council,2006,Mar,111
+Laois,County Council,2006,Apr,151
+Laois,County Council,2006,May,169
+Laois,County Council,2006,Jun,176
+Laois,County Council,2006,Jul,168
+Laois,County Council,2006,Aug,141
+Laois,County Council,2006,Sept,184
+Laois,County Council,2006,Oct,286
+Laois,County Council,2006,Nov,224
+Laois,County Council,2006,Dec,186
+Leitrim,County Council,2006,Jan,153
+Leitrim,County Council,2006,Feb,86
+Leitrim,County Council,2006,Mar,160
+Leitrim,County Council,2006,Apr,122
+Leitrim,County Council,2006,May,99
+Leitrim,County Council,2006,Jun,194
+Leitrim,County Council,2006,Jul,130
+Leitrim,County Council,2006,Aug,54
+Leitrim,County Council,2006,Sept,140
+Leitrim,County Council,2006,Oct,100
+Leitrim,County Council,2006,Nov,222
+Leitrim,County Council,2006,Dec,85
+Limerick,County Council,2006,Jan,149
+Limerick,County Council,2006,Feb,137
+Limerick,County Council,2006,Mar,146
+Limerick,County Council,2006,Apr,204
+Limerick,County Council,2006,May,170
+Limerick,County Council,2006,Jun,196
+Limerick,County Council,2006,Jul,253
+Limerick,County Council,2006,Aug,197
+Limerick,County Council,2006,Sept,226
+Limerick,County Council,2006,Oct,360
+Limerick,County Council,2006,Nov,293
+Limerick,County Council,2006,Dec,293
+Longford,County Council,2006,Jan,89
+Longford,County Council,2006,Feb,91
+Longford,County Council,2006,Mar,83
+Longford,County Council,2006,Apr,144
+Longford,County Council,2006,May,90
+Longford,County Council,2006,Jun,83
+Longford,County Council,2006,Jul,85
+Longford,County Council,2006,Aug,57
+Longford,County Council,2006,Sept,96
+Longford,County Council,2006,Oct,116
+Longford,County Council,2006,Nov,169
+Longford,County Council,2006,Dec,225
+Louth,County Council,2006,Jan,117
+Louth,County Council,2006,Feb,164
+Louth,County Council,2006,Mar,131
+Louth,County Council,2006,Apr,130
+Louth,County Council,2006,May,233
+Louth,County Council,2006,Jun,168
+Louth,County Council,2006,Jul,279
+Louth,County Council,2006,Aug,207
+Louth,County Council,2006,Sept,179
+Louth,County Council,2006,Oct,144
+Louth,County Council,2006,Nov,227
+Louth,County Council,2006,Dec,272
+Mayo,County Council,2006,Jan,253
+Mayo,County Council,2006,Feb,186
+Mayo,County Council,2006,Mar,335
+Mayo,County Council,2006,Apr,234
+Mayo,County Council,2006,May,194
+Mayo,County Council,2006,Jun,230
+Mayo,County Council,2006,Jul,273
+Mayo,County Council,2006,Aug,215
+Mayo,County Council,2006,Sept,258
+Mayo,County Council,2006,Oct,258
+Mayo,County Council,2006,Nov,322
+Mayo,County Council,2006,Dec,321
+Meath,County Council,2006,Jan,313
+Meath,County Council,2006,Feb,312
+Meath,County Council,2006,Mar,286
+Meath,County Council,2006,Apr,257
+Meath,County Council,2006,May,414
+Meath,County Council,2006,Jun,337
+Meath,County Council,2006,Jul,311
+Meath,County Council,2006,Aug,196
+Meath,County Council,2006,Sept,308
+Meath,County Council,2006,Oct,340
+Meath,County Council,2006,Nov,348
+Meath,County Council,2006,Dec,324
+Monaghan,County Council,2006,Jan,107
+Monaghan,County Council,2006,Feb,95
+Monaghan,County Council,2006,Mar,129
+Monaghan,County Council,2006,Apr,220
+Monaghan,County Council,2006,May,103
+Monaghan,County Council,2006,Jun,101
+Monaghan,County Council,2006,Jul,75
+Monaghan,County Council,2006,Aug,92
+Monaghan,County Council,2006,Sept,128
+Monaghan,County Council,2006,Oct,110
+Monaghan,County Council,2006,Nov,103
+Monaghan,County Council,2006,Dec,143
+North Tipperary,County Council,2006,Jan,96
+North Tipperary,County Council,2006,Feb,111
+North Tipperary,County Council,2006,Mar,144
+North Tipperary,County Council,2006,Apr,64
+North Tipperary,County Council,2006,May,88
+North Tipperary,County Council,2006,Jun,148
+North Tipperary,County Council,2006,Jul,121
+North Tipperary,County Council,2006,Aug,80
+North Tipperary,County Council,2006,Sept,160
+North Tipperary,County Council,2006,Oct,118
+North Tipperary,County Council,2006,Nov,152
+North Tipperary,County Council,2006,Dec,144
+Offaly,County Council,2006,Jan,91
+Offaly,County Council,2006,Feb,176
+Offaly,County Council,2006,Mar,109
+Offaly,County Council,2006,Apr,102
+Offaly,County Council,2006,May,110
+Offaly,County Council,2006,Jun,106
+Offaly,County Council,2006,Jul,108
+Offaly,County Council,2006,Aug,85
+Offaly,County Council,2006,Sept,138
+Offaly,County Council,2006,Oct,232
+Offaly,County Council,2006,Nov,196
+Offaly,County Council,2006,Dec,141
+Roscommon,County Council,2006,Jan,162
+Roscommon,County Council,2006,Feb,160
+Roscommon,County Council,2006,Mar,237
+Roscommon,County Council,2006,Apr,134
+Roscommon,County Council,2006,May,195
+Roscommon,County Council,2006,Jun,162
+Roscommon,County Council,2006,Jul,144
+Roscommon,County Council,2006,Aug,153
+Roscommon,County Council,2006,Sept,134
+Roscommon,County Council,2006,Oct,211
+Roscommon,County Council,2006,Nov,232
+Roscommon,County Council,2006,Dec,260
+Sligo,County Council,2006,Jan,155
+Sligo,County Council,2006,Feb,125
+Sligo,County Council,2006,Mar,233
+Sligo,County Council,2006,Apr,170
+Sligo,County Council,2006,May,191
+Sligo,County Council,2006,Jun,158
+Sligo,County Council,2006,Jul,209
+Sligo,County Council,2006,Aug,121
+Sligo,County Council,2006,Sept,171
+Sligo,County Council,2006,Oct,224
+Sligo,County Council,2006,Nov,309
+Sligo,County Council,2006,Dec,98
+South Dublin,County Council,2006,Jan,562
+South Dublin,County Council,2006,Feb,219
+South Dublin,County Council,2006,Mar,317
+South Dublin,County Council,2006,Apr,181
+South Dublin,County Council,2006,May,271
+South Dublin,County Council,2006,Jun,356
+South Dublin,County Council,2006,Jul,158
+South Dublin,County Council,2006,Aug,262
+South Dublin,County Council,2006,Sept,167
+South Dublin,County Council,2006,Oct,204
+South Dublin,County Council,2006,Nov,451
+South Dublin,County Council,2006,Dec,241
+South Tipperary,County Council,2006,Jan,85
+South Tipperary,County Council,2006,Feb,132
+South Tipperary,County Council,2006,Mar,109
+South Tipperary,County Council,2006,Apr,120
+South Tipperary,County Council,2006,May,113
+South Tipperary,County Council,2006,Jun,107
+South Tipperary,County Council,2006,Jul,118
+South Tipperary,County Council,2006,Aug,166
+South Tipperary,County Council,2006,Sept,102
+South Tipperary,County Council,2006,Oct,210
+South Tipperary,County Council,2006,Nov,156
+South Tipperary,County Council,2006,Dec,172
+Waterford,County Council,2006,Jan,78
+Waterford,County Council,2006,Feb,126
+Waterford,County Council,2006,Mar,136
+Waterford,County Council,2006,Apr,123
+Waterford,County Council,2006,May,157
+Waterford,County Council,2006,Jun,117
+Waterford,County Council,2006,Jul,143
+Waterford,County Council,2006,Aug,79
+Waterford,County Council,2006,Sept,113
+Waterford,County Council,2006,Oct,131
+Waterford,County Council,2006,Nov,192
+Waterford,County Council,2006,Dec,116
+Westmeath,County Council,2006,Jan,132
+Westmeath,County Council,2006,Feb,147
+Westmeath,County Council,2006,Mar,140
+Westmeath,County Council,2006,Apr,116
+Westmeath,County Council,2006,May,147
+Westmeath,County Council,2006,Jun,138
+Westmeath,County Council,2006,Jul,120
+Westmeath,County Council,2006,Aug,107
+Westmeath,County Council,2006,Sept,96
+Westmeath,County Council,2006,Oct,162
+Westmeath,County Council,2006,Nov,220
+Westmeath,County Council,2006,Dec,179
+Wexford,County Council,2006,Jan,183
+Wexford,County Council,2006,Feb,236
+Wexford,County Council,2006,Mar,276
+Wexford,County Council,2006,Apr,337
+Wexford,County Council,2006,May,388
+Wexford,County Council,2006,Jun,217
+Wexford,County Council,2006,Jul,333
+Wexford,County Council,2006,Aug,245
+Wexford,County Council,2006,Sept,214
+Wexford,County Council,2006,Oct,344
+Wexford,County Council,2006,Nov,308
+Wexford,County Council,2006,Dec,310
+Wicklow,County Council,2006,Jan,213
+Wicklow,County Council,2006,Feb,142
+Wicklow,County Council,2006,Mar,179
+Wicklow,County Council,2006,Apr,132
+Wicklow,County Council,2006,May,182
+Wicklow,County Council,2006,Jun,132
+Wicklow,County Council,2006,Jul,101
+Wicklow,County Council,2006,Aug,181
+Wicklow,County Council,2006,Sept,140
+Wicklow,County Council,2006,Oct,181
+Wicklow,County Council,2006,Nov,220
+Wicklow,County Council,2006,Dec,164
+Cork,City Council,2007,Jan,83
+Cork,City Council,2007,Feb,123
+Cork,City Council,2007,Mar,168
+Cork,City Council,2007,Apr,99
+Cork,City Council,2007,May,87
+Cork,City Council,2007,Jun,158
+Cork,City Council,2007,Jul,85
+Cork,City Council,2007,Aug,58
+Cork,City Council,2007,Sept,76
+Cork,City Council,2007,Oct,52
+Cork,City Council,2007,Nov,62
+Cork,City Council,2007,Dec,158
+Dublin,City Council,2007,Jan,446
+Dublin,City Council,2007,Feb,562
+Dublin,City Council,2007,Mar,677
+Dublin,City Council,2007,Apr,273
+Dublin,City Council,2007,May,674
+Dublin,City Council,2007,Jun,418
+Dublin,City Council,2007,Jul,454
+Dublin,City Council,2007,Aug,606
+Dublin,City Council,2007,Sept,491
+Dublin,City Council,2007,Oct,832
+Dublin,City Council,2007,Nov,849
+Dublin,City Council,2007,Dec,396
+Galway,City Council,2007,Jan,23
+Galway,City Council,2007,Feb,142
+Galway,City Council,2007,Mar,73
+Galway,City Council,2007,Apr,24
+Galway,City Council,2007,May,39
+Galway,City Council,2007,Jun,73
+Galway,City Council,2007,Jul,91
+Galway,City Council,2007,Aug,47
+Galway,City Council,2007,Sept,31
+Galway,City Council,2007,Oct,54
+Galway,City Council,2007,Nov,54
+Galway,City Council,2007,Dec,81
+Limerick,City Council,2007,Jan,43
+Limerick,City Council,2007,Feb,52
+Limerick,City Council,2007,Mar,59
+Limerick,City Council,2007,Apr,3
+Limerick,City Council,2007,May,23
+Limerick,City Council,2007,Jun,6
+Limerick,City Council,2007,Jul,37
+Limerick,City Council,2007,Aug,11
+Limerick,City Council,2007,Sept,5
+Limerick,City Council,2007,Oct,44
+Limerick,City Council,2007,Nov,46
+Limerick,City Council,2007,Dec,5
+Waterford,City Council,2007,Jan,17
+Waterford,City Council,2007,Feb,79
+Waterford,City Council,2007,Mar,13
+Waterford,City Council,2007,Apr,18
+Waterford,City Council,2007,May,12
+Waterford,City Council,2007,Jun,59
+Waterford,City Council,2007,Jul,55
+Waterford,City Council,2007,Aug,50
+Waterford,City Council,2007,Sept,15
+Waterford,City Council,2007,Oct,16
+Waterford,City Council,2007,Nov,17
+Waterford,City Council,2007,Dec,89
+Carlow,County Council,2007,Jan,52
+Carlow,County Council,2007,Feb,142
+Carlow,County Council,2007,Mar,126
+Carlow,County Council,2007,Apr,101
+Carlow,County Council,2007,May,176
+Carlow,County Council,2007,Jun,97
+Carlow,County Council,2007,Jul,89
+Carlow,County Council,2007,Aug,61
+Carlow,County Council,2007,Sept,72
+Carlow,County Council,2007,Oct,59
+Carlow,County Council,2007,Nov,62
+Carlow,County Council,2007,Dec,106
+Cavan,County Council,2007,Jan,176
+Cavan,County Council,2007,Feb,118
+Cavan,County Council,2007,Mar,170
+Cavan,County Council,2007,Apr,142
+Cavan,County Council,2007,May,260
+Cavan,County Council,2007,Jun,153
+Cavan,County Council,2007,Jul,86
+Cavan,County Council,2007,Aug,227
+Cavan,County Council,2007,Sept,214
+Cavan,County Council,2007,Oct,162
+Cavan,County Council,2007,Nov,181
+Cavan,County Council,2007,Dec,219
+Clare,County Council,2007,Jan,122
+Clare,County Council,2007,Feb,237
+Clare,County Council,2007,Mar,197
+Clare,County Council,2007,Apr,192
+Clare,County Council,2007,May,188
+Clare,County Council,2007,Jun,159
+Clare,County Council,2007,Jul,163
+Clare,County Council,2007,Aug,151
+Clare,County Council,2007,Sept,161
+Clare,County Council,2007,Oct,255
+Clare,County Council,2007,Nov,258
+Clare,County Council,2007,Dec,203
+Cork,County Council,2007,Jan,573
+Cork,County Council,2007,Feb,646
+Cork,County Council,2007,Mar,800
+Cork,County Council,2007,Apr,597
+Cork,County Council,2007,May,654
+Cork,County Council,2007,Jun,576
+Cork,County Council,2007,Jul,416
+Cork,County Council,2007,Aug,550
+Cork,County Council,2007,Sept,550
+Cork,County Council,2007,Oct,731
+Cork,County Council,2007,Nov,756
+Cork,County Council,2007,Dec,628
+Donegal,County Council,2007,Jan,344
+Donegal,County Council,2007,Feb,370
+Donegal,County Council,2007,Mar,321
+Donegal,County Council,2007,Apr,380
+Donegal,County Council,2007,May,295
+Donegal,County Council,2007,Jun,400
+Donegal,County Council,2007,Jul,264
+Donegal,County Council,2007,Aug,284
+Donegal,County Council,2007,Sept,423
+Donegal,County Council,2007,Oct,358
+Donegal,County Council,2007,Nov,372
+Donegal,County Council,2007,Dec,353
+Dun Laoghaire,County Council,2007,Jan,217
+Dun Laoghaire,County Council,2007,Feb,257
+Dun Laoghaire,County Council,2007,Mar,100
+Dun Laoghaire,County Council,2007,Apr,204
+Dun Laoghaire,County Council,2007,May,221
+Dun Laoghaire,County Council,2007,Jun,273
+Dun Laoghaire,County Council,2007,Jul,204
+Dun Laoghaire,County Council,2007,Aug,269
+Dun Laoghaire,County Council,2007,Sept,422
+Dun Laoghaire,County Council,2007,Oct,282
+Dun Laoghaire,County Council,2007,Nov,291
+Dun Laoghaire,County Council,2007,Dec,312
+Fingal,County Council,2007,Jan,311
+Fingal,County Council,2007,Feb,450
+Fingal,County Council,2007,Mar,541
+Fingal,County Council,2007,Apr,449
+Fingal,County Council,2007,May,351
+Fingal,County Council,2007,Jun,446
+Fingal,County Council,2007,Jul,345
+Fingal,County Council,2007,Aug,329
+Fingal,County Council,2007,Sept,419
+Fingal,County Council,2007,Oct,414
+Fingal,County Council,2007,Nov,426
+Fingal,County Council,2007,Dec,244
+Galway,County Council,2007,Jan,427
+Galway,County Council,2007,Feb,359
+Galway,County Council,2007,Mar,332
+Galway,County Council,2007,Apr,264
+Galway,County Council,2007,May,325
+Galway,County Council,2007,Jun,272
+Galway,County Council,2007,Jul,223
+Galway,County Council,2007,Aug,223
+Galway,County Council,2007,Sept,243
+Galway,County Council,2007,Oct,430
+Galway,County Council,2007,Nov,457
+Galway,County Council,2007,Dec,294
+Kerry,County Council,2007,Jan,172
+Kerry,County Council,2007,Feb,255
+Kerry,County Council,2007,Mar,243
+Kerry,County Council,2007,Apr,249
+Kerry,County Council,2007,May,257
+Kerry,County Council,2007,Jun,209
+Kerry,County Council,2007,Jul,180
+Kerry,County Council,2007,Aug,262
+Kerry,County Council,2007,Sept,206
+Kerry,County Council,2007,Oct,187
+Kerry,County Council,2007,Nov,193
+Kerry,County Council,2007,Dec,265
+Kildare,County Council,2007,Jan,225
+Kildare,County Council,2007,Feb,294
+Kildare,County Council,2007,Mar,285
+Kildare,County Council,2007,Apr,305
+Kildare,County Council,2007,May,277
+Kildare,County Council,2007,Jun,217
+Kildare,County Council,2007,Jul,221
+Kildare,County Council,2007,Aug,194
+Kildare,County Council,2007,Sept,296
+Kildare,County Council,2007,Oct,315
+Kildare,County Council,2007,Nov,322
+Kildare,County Council,2007,Dec,167
+Kilkenny,County Council,2007,Jan,129
+Kilkenny,County Council,2007,Feb,150
+Kilkenny,County Council,2007,Mar,175
+Kilkenny,County Council,2007,Apr,121
+Kilkenny,County Council,2007,May,111
+Kilkenny,County Council,2007,Jun,77
+Kilkenny,County Council,2007,Jul,124
+Kilkenny,County Council,2007,Aug,144
+Kilkenny,County Council,2007,Sept,76
+Kilkenny,County Council,2007,Oct,124
+Kilkenny,County Council,2007,Nov,132
+Kilkenny,County Council,2007,Dec,181
+Laois,County Council,2007,Jan,213
+Laois,County Council,2007,Feb,192
+Laois,County Council,2007,Mar,225
+Laois,County Council,2007,Apr,157
+Laois,County Council,2007,May,209
+Laois,County Council,2007,Jun,133
+Laois,County Council,2007,Jul,141
+Laois,County Council,2007,Aug,137
+Laois,County Council,2007,Sept,136
+Laois,County Council,2007,Oct,214
+Laois,County Council,2007,Nov,217
+Laois,County Council,2007,Dec,203
+Leitrim,County Council,2007,Jan,105
+Leitrim,County Council,2007,Feb,97
+Leitrim,County Council,2007,Mar,76
+Leitrim,County Council,2007,Apr,118
+Leitrim,County Council,2007,May,60
+Leitrim,County Council,2007,Jun,86
+Leitrim,County Council,2007,Jul,71
+Leitrim,County Council,2007,Aug,91
+Leitrim,County Council,2007,Sept,73
+Leitrim,County Council,2007,Oct,64
+Leitrim,County Council,2007,Nov,69
+Leitrim,County Council,2007,Dec,65
+Limerick,County Council,2007,Jan,166
+Limerick,County Council,2007,Feb,211
+Limerick,County Council,2007,Mar,222
+Limerick,County Council,2007,Apr,122
+Limerick,County Council,2007,May,258
+Limerick,County Council,2007,Jun,179
+Limerick,County Council,2007,Jul,102
+Limerick,County Council,2007,Aug,165
+Limerick,County Council,2007,Sept,146
+Limerick,County Council,2007,Oct,267
+Limerick,County Council,2007,Nov,277
+Limerick,County Council,2007,Dec,327
+Longford,County Council,2007,Jan,96
+Longford,County Council,2007,Feb,201
+Longford,County Council,2007,Mar,109
+Longford,County Council,2007,Apr,136
+Longford,County Council,2007,May,142
+Longford,County Council,2007,Jun,97
+Longford,County Council,2007,Jul,148
+Longford,County Council,2007,Aug,65
+Longford,County Council,2007,Sept,126
+Longford,County Council,2007,Oct,167
+Longford,County Council,2007,Nov,172
+Longford,County Council,2007,Dec,120
+Louth,County Council,2007,Jan,128
+Louth,County Council,2007,Feb,139
+Louth,County Council,2007,Mar,154
+Louth,County Council,2007,Apr,99
+Louth,County Council,2007,May,93
+Louth,County Council,2007,Jun,110
+Louth,County Council,2007,Jul,99
+Louth,County Council,2007,Aug,151
+Louth,County Council,2007,Sept,173
+Louth,County Council,2007,Oct,180
+Louth,County Council,2007,Nov,188
+Louth,County Council,2007,Dec,140
+Mayo,County Council,2007,Jan,221
+Mayo,County Council,2007,Feb,230
+Mayo,County Council,2007,Mar,235
+Mayo,County Council,2007,Apr,190
+Mayo,County Council,2007,May,144
+Mayo,County Council,2007,Jun,230
+Mayo,County Council,2007,Jul,154
+Mayo,County Council,2007,Aug,170
+Mayo,County Council,2007,Sept,161
+Mayo,County Council,2007,Oct,231
+Mayo,County Council,2007,Nov,244
+Mayo,County Council,2007,Dec,232
+Meath,County Council,2007,Jan,162
+Meath,County Council,2007,Feb,196
+Meath,County Council,2007,Mar,285
+Meath,County Council,2007,Apr,287
+Meath,County Council,2007,May,226
+Meath,County Council,2007,Jun,265
+Meath,County Council,2007,Jul,155
+Meath,County Council,2007,Aug,180
+Meath,County Council,2007,Sept,144
+Meath,County Council,2007,Oct,168
+Meath,County Council,2007,Nov,196
+Meath,County Council,2007,Dec,163
+Monaghan,County Council,2007,Jan,47
+Monaghan,County Council,2007,Feb,104
+Monaghan,County Council,2007,Mar,94
+Monaghan,County Council,2007,Apr,49
+Monaghan,County Council,2007,May,95
+Monaghan,County Council,2007,Jun,127
+Monaghan,County Council,2007,Jul,57
+Monaghan,County Council,2007,Aug,95
+Monaghan,County Council,2007,Sept,129
+Monaghan,County Council,2007,Oct,83
+Monaghan,County Council,2007,Nov,84
+Monaghan,County Council,2007,Dec,78
+North Tipperary,County Council,2007,Jan,90
+North Tipperary,County Council,2007,Feb,85
+North Tipperary,County Council,2007,Mar,87
+North Tipperary,County Council,2007,Apr,70
+North Tipperary,County Council,2007,May,101
+North Tipperary,County Council,2007,Jun,85
+North Tipperary,County Council,2007,Jul,54
+North Tipperary,County Council,2007,Aug,95
+North Tipperary,County Council,2007,Sept,101
+North Tipperary,County Council,2007,Oct,77
+North Tipperary,County Council,2007,Nov,80
+North Tipperary,County Council,2007,Dec,116
+Offaly,County Council,2007,Jan,84
+Offaly,County Council,2007,Feb,115
+Offaly,County Council,2007,Mar,92
+Offaly,County Council,2007,Apr,77
+Offaly,County Council,2007,May,86
+Offaly,County Council,2007,Jun,111
+Offaly,County Council,2007,Jul,79
+Offaly,County Council,2007,Aug,120
+Offaly,County Council,2007,Sept,119
+Offaly,County Council,2007,Oct,100
+Offaly,County Council,2007,Nov,101
+Offaly,County Council,2007,Dec,133
+Roscommon,County Council,2007,Jan,113
+Roscommon,County Council,2007,Feb,96
+Roscommon,County Council,2007,Mar,119
+Roscommon,County Council,2007,Apr,137
+Roscommon,County Council,2007,May,128
+Roscommon,County Council,2007,Jun,134
+Roscommon,County Council,2007,Jul,76
+Roscommon,County Council,2007,Aug,116
+Roscommon,County Council,2007,Sept,140
+Roscommon,County Council,2007,Oct,139
+Roscommon,County Council,2007,Nov,145
+Roscommon,County Council,2007,Dec,81
+Sligo,County Council,2007,Jan,129
+Sligo,County Council,2007,Feb,80
+Sligo,County Council,2007,Mar,136
+Sligo,County Council,2007,Apr,153
+Sligo,County Council,2007,May,96
+Sligo,County Council,2007,Jun,74
+Sligo,County Council,2007,Jul,66
+Sligo,County Council,2007,Aug,72
+Sligo,County Council,2007,Sept,101
+Sligo,County Council,2007,Oct,120
+Sligo,County Council,2007,Nov,126
+Sligo,County Council,2007,Dec,116
+South Dublin,County Council,2007,Jan,160
+South Dublin,County Council,2007,Feb,393
+South Dublin,County Council,2007,Mar,272
+South Dublin,County Council,2007,Apr,277
+South Dublin,County Council,2007,May,416
+South Dublin,County Council,2007,Jun,147
+South Dublin,County Council,2007,Jul,377
+South Dublin,County Council,2007,Aug,196
+South Dublin,County Council,2007,Sept,310
+South Dublin,County Council,2007,Oct,222
+South Dublin,County Council,2007,Nov,230
+South Dublin,County Council,2007,Dec,270
+South Tipperary,County Council,2007,Jan,110
+South Tipperary,County Council,2007,Feb,126
+South Tipperary,County Council,2007,Mar,145
+South Tipperary,County Council,2007,Apr,129
+South Tipperary,County Council,2007,May,65
+South Tipperary,County Council,2007,Jun,80
+South Tipperary,County Council,2007,Jul,64
+South Tipperary,County Council,2007,Aug,63
+South Tipperary,County Council,2007,Sept,93
+South Tipperary,County Council,2007,Oct,162
+South Tipperary,County Council,2007,Nov,170
+South Tipperary,County Council,2007,Dec,83
+Waterford,County Council,2007,Jan,60
+Waterford,County Council,2007,Feb,119
+Waterford,County Council,2007,Mar,93
+Waterford,County Council,2007,Apr,57
+Waterford,County Council,2007,May,99
+Waterford,County Council,2007,Jun,87
+Waterford,County Council,2007,Jul,84
+Waterford,County Council,2007,Aug,99
+Waterford,County Council,2007,Sept,110
+Waterford,County Council,2007,Oct,142
+Waterford,County Council,2007,Nov,145
+Waterford,County Council,2007,Dec,140
+Westmeath,County Council,2007,Jan,201
+Westmeath,County Council,2007,Feb,114
+Westmeath,County Council,2007,Mar,112
+Westmeath,County Council,2007,Apr,120
+Westmeath,County Council,2007,May,124
+Westmeath,County Council,2007,Jun,134
+Westmeath,County Council,2007,Jul,80
+Westmeath,County Council,2007,Aug,143
+Westmeath,County Council,2007,Sept,183
+Westmeath,County Council,2007,Oct,188
+Westmeath,County Council,2007,Nov,193
+Westmeath,County Council,2007,Dec,116
+Wexford,County Council,2007,Jan,213
+Wexford,County Council,2007,Feb,196
+Wexford,County Council,2007,Mar,210
+Wexford,County Council,2007,Apr,236
+Wexford,County Council,2007,May,403
+Wexford,County Council,2007,Jun,296
+Wexford,County Council,2007,Jul,144
+Wexford,County Council,2007,Aug,303
+Wexford,County Council,2007,Sept,260
+Wexford,County Council,2007,Oct,356
+Wexford,County Council,2007,Nov,364
+Wexford,County Council,2007,Dec,213
+Wicklow,County Council,2007,Jan,130
+Wicklow,County Council,2007,Feb,122
+Wicklow,County Council,2007,Mar,132
+Wicklow,County Council,2007,Apr,129
+Wicklow,County Council,2007,May,137
+Wicklow,County Council,2007,Jun,96
+Wicklow,County Council,2007,Jul,74
+Wicklow,County Council,2007,Aug,176
+Wicklow,County Council,2007,Sept,157
+Wicklow,County Council,2007,Oct,202
+Wicklow,County Council,2007,Nov,217
+Wicklow,County Council,2007,Dec,132
+Cork,City Council,2008,Jan,44
+Cork,City Council,2008,Feb,29
+Cork,City Council,2008,Mar,150
+Cork,City Council,2008,Apr,31
+Cork,City Council,2008,May,93
+Cork,City Council,2008,Jun,188
+Cork,City Council,2008,Jul,94
+Cork,City Council,2008,Aug,131
+Cork,City Council,2008,Sept,52
+Cork,City Council,2008,Oct,45
+Cork,City Council,2008,Nov,42
+Cork,City Council,2008,Dec,102
+Dublin,City Council,2008,Jan,402
+Dublin,City Council,2008,Feb,451
+Dublin,City Council,2008,Mar,520
+Dublin,City Council,2008,Apr,402
+Dublin,City Council,2008,May,554
+Dublin,City Council,2008,Jun,489
+Dublin,City Council,2008,Jul,470
+Dublin,City Council,2008,Aug,387
+Dublin,City Council,2008,Sept,533
+Dublin,City Council,2008,Oct,350
+Dublin,City Council,2008,Nov,614
+Dublin,City Council,2008,Dec,176
+Galway,City Council,2008,Jan,13
+Galway,City Council,2008,Feb,25
+Galway,City Council,2008,Mar,27
+Galway,City Council,2008,Apr,64
+Galway,City Council,2008,May,32
+Galway,City Council,2008,Jun,74
+Galway,City Council,2008,Jul,70
+Galway,City Council,2008,Aug,20
+Galway,City Council,2008,Sept,77
+Galway,City Council,2008,Oct,52
+Galway,City Council,2008,Nov,46
+Galway,City Council,2008,Dec,45
+Limerick,City Council,2008,Jan,59
+Limerick,City Council,2008,Feb,31
+Limerick,City Council,2008,Mar,70
+Limerick,City Council,2008,Apr,96
+Limerick,City Council,2008,May,29
+Limerick,City Council,2008,Jun,21
+Limerick,City Council,2008,Jul,7
+Limerick,City Council,2008,Aug,0
+Limerick,City Council,2008,Sept,8
+Limerick,City Council,2008,Oct,19
+Limerick,City Council,2008,Nov,14
+Limerick,City Council,2008,Dec,11
+Waterford,City Council,2008,Jan,90
+Waterford,City Council,2008,Feb,26
+Waterford,City Council,2008,Mar,32
+Waterford,City Council,2008,Apr,10
+Waterford,City Council,2008,May,7
+Waterford,City Council,2008,Jun,21
+Waterford,City Council,2008,Jul,47
+Waterford,City Council,2008,Aug,6
+Waterford,City Council,2008,Sept,28
+Waterford,City Council,2008,Oct,11
+Waterford,City Council,2008,Nov,4
+Waterford,City Council,2008,Dec,15
+Carlow,County Council,2008,Jan,44
+Carlow,County Council,2008,Feb,61
+Carlow,County Council,2008,Mar,38
+Carlow,County Council,2008,Apr,94
+Carlow,County Council,2008,May,39
+Carlow,County Council,2008,Jun,51
+Carlow,County Council,2008,Jul,43
+Carlow,County Council,2008,Aug,71
+Carlow,County Council,2008,Sept,33
+Carlow,County Council,2008,Oct,49
+Carlow,County Council,2008,Nov,72
+Carlow,County Council,2008,Dec,40
+Cavan,County Council,2008,Jan,124
+Cavan,County Council,2008,Feb,90
+Cavan,County Council,2008,Mar,111
+Cavan,County Council,2008,Apr,75
+Cavan,County Council,2008,May,62
+Cavan,County Council,2008,Jun,92
+Cavan,County Council,2008,Jul,129
+Cavan,County Council,2008,Aug,67
+Cavan,County Council,2008,Sept,90
+Cavan,County Council,2008,Oct,62
+Cavan,County Council,2008,Nov,86
+Cavan,County Council,2008,Dec,74
+Clare,County Council,2008,Jan,100
+Clare,County Council,2008,Feb,152
+Clare,County Council,2008,Mar,94
+Clare,County Council,2008,Apr,128
+Clare,County Council,2008,May,97
+Clare,County Council,2008,Jun,95
+Clare,County Council,2008,Jul,149
+Clare,County Council,2008,Aug,81
+Clare,County Council,2008,Sept,155
+Clare,County Council,2008,Oct,102
+Clare,County Council,2008,Nov,144
+Clare,County Council,2008,Dec,96
+Cork,County Council,2008,Jan,421
+Cork,County Council,2008,Feb,515
+Cork,County Council,2008,Mar,381
+Cork,County Council,2008,Apr,404
+Cork,County Council,2008,May,431
+Cork,County Council,2008,Jun,483
+Cork,County Council,2008,Jul,413
+Cork,County Council,2008,Aug,488
+Cork,County Council,2008,Sept,392
+Cork,County Council,2008,Oct,393
+Cork,County Council,2008,Nov,435
+Cork,County Council,2008,Dec,335
+Donegal,County Council,2008,Jan,155
+Donegal,County Council,2008,Feb,297
+Donegal,County Council,2008,Mar,225
+Donegal,County Council,2008,Apr,239
+Donegal,County Council,2008,May,313
+Donegal,County Council,2008,Jun,174
+Donegal,County Council,2008,Jul,172
+Donegal,County Council,2008,Aug,132
+Donegal,County Council,2008,Sept,272
+Donegal,County Council,2008,Oct,195
+Donegal,County Council,2008,Nov,200
+Donegal,County Council,2008,Dec,202
+Dun Laoghaire,County Council,2008,Jan,335
+Dun Laoghaire,County Council,2008,Feb,230
+Dun Laoghaire,County Council,2008,Mar,86
+Dun Laoghaire,County Council,2008,Apr,235
+Dun Laoghaire,County Council,2008,May,185
+Dun Laoghaire,County Council,2008,Jun,262
+Dun Laoghaire,County Council,2008,Jul,168
+Dun Laoghaire,County Council,2008,Aug,168
+Dun Laoghaire,County Council,2008,Sept,115
+Dun Laoghaire,County Council,2008,Oct,127
+Dun Laoghaire,County Council,2008,Nov,76
+Dun Laoghaire,County Council,2008,Dec,100
+Fingal,County Council,2008,Jan,204
+Fingal,County Council,2008,Feb,205
+Fingal,County Council,2008,Mar,82
+Fingal,County Council,2008,Apr,192
+Fingal,County Council,2008,May,189
+Fingal,County Council,2008,Jun,129
+Fingal,County Council,2008,Jul,131
+Fingal,County Council,2008,Aug,153
+Fingal,County Council,2008,Sept,190
+Fingal,County Council,2008,Oct,274
+Fingal,County Council,2008,Nov,187
+Fingal,County Council,2008,Dec,213
+Galway,County Council,2008,Jan,188
+Galway,County Council,2008,Feb,210
+Galway,County Council,2008,Mar,179
+Galway,County Council,2008,Apr,213
+Galway,County Council,2008,May,177
+Galway,County Council,2008,Jun,112
+Galway,County Council,2008,Jul,155
+Galway,County Council,2008,Aug,218
+Galway,County Council,2008,Sept,278
+Galway,County Council,2008,Oct,165
+Galway,County Council,2008,Nov,209
+Galway,County Council,2008,Dec,228
+Kerry,County Council,2008,Jan,94
+Kerry,County Council,2008,Feb,197
+Kerry,County Council,2008,Mar,154
+Kerry,County Council,2008,Apr,170
+Kerry,County Council,2008,May,143
+Kerry,County Council,2008,Jun,132
+Kerry,County Council,2008,Jul,177
+Kerry,County Council,2008,Aug,133
+Kerry,County Council,2008,Sept,260
+Kerry,County Council,2008,Oct,223
+Kerry,County Council,2008,Nov,144
+Kerry,County Council,2008,Dec,134
+Kildare,County Council,2008,Jan,176
+Kildare,County Council,2008,Feb,140
+Kildare,County Council,2008,Mar,129
+Kildare,County Council,2008,Apr,170
+Kildare,County Council,2008,May,170
+Kildare,County Council,2008,Jun,132
+Kildare,County Council,2008,Jul,207
+Kildare,County Council,2008,Aug,123
+Kildare,County Council,2008,Sept,133
+Kildare,County Council,2008,Oct,161
+Kildare,County Council,2008,Nov,112
+Kildare,County Council,2008,Dec,158
+Kilkenny,County Council,2008,Jan,147
+Kilkenny,County Council,2008,Feb,127
+Kilkenny,County Council,2008,Mar,57
+Kilkenny,County Council,2008,Apr,102
+Kilkenny,County Council,2008,May,81
+Kilkenny,County Council,2008,Jun,122
+Kilkenny,County Council,2008,Jul,87
+Kilkenny,County Council,2008,Aug,76
+Kilkenny,County Council,2008,Sept,70
+Kilkenny,County Council,2008,Oct,64
+Kilkenny,County Council,2008,Nov,112
+Kilkenny,County Council,2008,Dec,97
+Laois,County Council,2008,Jan,94
+Laois,County Council,2008,Feb,160
+Laois,County Council,2008,Mar,102
+Laois,County Council,2008,Apr,163
+Laois,County Council,2008,May,118
+Laois,County Council,2008,Jun,70
+Laois,County Council,2008,Jul,79
+Laois,County Council,2008,Aug,80
+Laois,County Council,2008,Sept,67
+Laois,County Council,2008,Oct,74
+Laois,County Council,2008,Nov,61
+Laois,County Council,2008,Dec,88
+Leitrim,County Council,2008,Jan,44
+Leitrim,County Council,2008,Feb,65
+Leitrim,County Council,2008,Mar,50
+Leitrim,County Council,2008,Apr,88
+Leitrim,County Council,2008,May,77
+Leitrim,County Council,2008,Jun,42
+Leitrim,County Council,2008,Jul,63
+Leitrim,County Council,2008,Aug,53
+Leitrim,County Council,2008,Sept,50
+Leitrim,County Council,2008,Oct,47
+Leitrim,County Council,2008,Nov,40
+Leitrim,County Council,2008,Dec,28
+Limerick,County Council,2008,Jan,115
+Limerick,County Council,2008,Feb,181
+Limerick,County Council,2008,Mar,129
+Limerick,County Council,2008,Apr,153
+Limerick,County Council,2008,May,149
+Limerick,County Council,2008,Jun,105
+Limerick,County Council,2008,Jul,102
+Limerick,County Council,2008,Aug,132
+Limerick,County Council,2008,Sept,126
+Limerick,County Council,2008,Oct,134
+Limerick,County Council,2008,Nov,127
+Limerick,County Council,2008,Dec,119
+Longford,County Council,2008,Jan,76
+Longford,County Council,2008,Feb,54
+Longford,County Council,2008,Mar,66
+Longford,County Council,2008,Apr,64
+Longford,County Council,2008,May,55
+Longford,County Council,2008,Jun,34
+Longford,County Council,2008,Jul,39
+Longford,County Council,2008,Aug,31
+Longford,County Council,2008,Sept,37
+Longford,County Council,2008,Oct,45
+Longford,County Council,2008,Nov,55
+Longford,County Council,2008,Dec,28
+Louth,County Council,2008,Jan,143
+Louth,County Council,2008,Feb,160
+Louth,County Council,2008,Mar,62
+Louth,County Council,2008,Apr,86
+Louth,County Council,2008,May,85
+Louth,County Council,2008,Jun,90
+Louth,County Council,2008,Jul,157
+Louth,County Council,2008,Aug,87
+Louth,County Council,2008,Sept,58
+Louth,County Council,2008,Oct,143
+Louth,County Council,2008,Nov,187
+Louth,County Council,2008,Dec,155
+Mayo,County Council,2008,Jan,122
+Mayo,County Council,2008,Feb,201
+Mayo,County Council,2008,Mar,152
+Mayo,County Council,2008,Apr,201
+Mayo,County Council,2008,May,93
+Mayo,County Council,2008,Jun,172
+Mayo,County Council,2008,Jul,158
+Mayo,County Council,2008,Aug,92
+Mayo,County Council,2008,Sept,137
+Mayo,County Council,2008,Oct,160
+Mayo,County Council,2008,Nov,132
+Mayo,County Council,2008,Dec,154
+Meath,County Council,2008,Jan,207
+Meath,County Council,2008,Feb,128
+Meath,County Council,2008,Mar,187
+Meath,County Council,2008,Apr,194
+Meath,County Council,2008,May,170
+Meath,County Council,2008,Jun,219
+Meath,County Council,2008,Jul,193
+Meath,County Council,2008,Aug,112
+Meath,County Council,2008,Sept,143
+Meath,County Council,2008,Oct,118
+Meath,County Council,2008,Nov,164
+Meath,County Council,2008,Dec,111
+Monaghan,County Council,2008,Jan,105
+Monaghan,County Council,2008,Feb,88
+Monaghan,County Council,2008,Mar,47
+Monaghan,County Council,2008,Apr,59
+Monaghan,County Council,2008,May,33
+Monaghan,County Council,2008,Jun,69
+Monaghan,County Council,2008,Jul,41
+Monaghan,County Council,2008,Aug,44
+Monaghan,County Council,2008,Sept,45
+Monaghan,County Council,2008,Oct,33
+Monaghan,County Council,2008,Nov,51
+Monaghan,County Council,2008,Dec,59
+North Tipperary,County Council,2008,Jan,54
+North Tipperary,County Council,2008,Feb,102
+North Tipperary,County Council,2008,Mar,77
+North Tipperary,County Council,2008,Apr,69
+North Tipperary,County Council,2008,May,94
+North Tipperary,County Council,2008,Jun,81
+North Tipperary,County Council,2008,Jul,133
+North Tipperary,County Council,2008,Aug,43
+North Tipperary,County Council,2008,Sept,51
+North Tipperary,County Council,2008,Oct,73
+North Tipperary,County Council,2008,Nov,118
+North Tipperary,County Council,2008,Dec,83
+Offaly,County Council,2008,Jan,134
+Offaly,County Council,2008,Feb,92
+Offaly,County Council,2008,Mar,60
+Offaly,County Council,2008,Apr,72
+Offaly,County Council,2008,May,103
+Offaly,County Council,2008,Jun,41
+Offaly,County Council,2008,Jul,63
+Offaly,County Council,2008,Aug,65
+Offaly,County Council,2008,Sept,74
+Offaly,County Council,2008,Oct,50
+Offaly,County Council,2008,Nov,52
+Offaly,County Council,2008,Dec,51
+Roscommon,County Council,2008,Jan,196
+Roscommon,County Council,2008,Feb,122
+Roscommon,County Council,2008,Mar,59
+Roscommon,County Council,2008,Apr,78
+Roscommon,County Council,2008,May,62
+Roscommon,County Council,2008,Jun,92
+Roscommon,County Council,2008,Jul,89
+Roscommon,County Council,2008,Aug,71
+Roscommon,County Council,2008,Sept,59
+Roscommon,County Council,2008,Oct,73
+Roscommon,County Council,2008,Nov,74
+Roscommon,County Council,2008,Dec,68
+Sligo,County Council,2008,Jan,117
+Sligo,County Council,2008,Feb,75
+Sligo,County Council,2008,Mar,53
+Sligo,County Council,2008,Apr,90
+Sligo,County Council,2008,May,114
+Sligo,County Council,2008,Jun,82
+Sligo,County Council,2008,Jul,86
+Sligo,County Council,2008,Aug,43
+Sligo,County Council,2008,Sept,103
+Sligo,County Council,2008,Oct,75
+Sligo,County Council,2008,Nov,66
+Sligo,County Council,2008,Dec,20
+South Dublin,County Council,2008,Jan,262
+South Dublin,County Council,2008,Feb,162
+South Dublin,County Council,2008,Mar,171
+South Dublin,County Council,2008,Apr,246
+South Dublin,County Council,2008,May,153
+South Dublin,County Council,2008,Jun,144
+South Dublin,County Council,2008,Jul,73
+South Dublin,County Council,2008,Aug,70
+South Dublin,County Council,2008,Sept,114
+South Dublin,County Council,2008,Oct,157
+South Dublin,County Council,2008,Nov,115
+South Dublin,County Council,2008,Dec,91
+South Tipperary,County Council,2008,Jan,96
+South Tipperary,County Council,2008,Feb,108
+South Tipperary,County Council,2008,Mar,53
+South Tipperary,County Council,2008,Apr,74
+South Tipperary,County Council,2008,May,59
+South Tipperary,County Council,2008,Jun,88
+South Tipperary,County Council,2008,Jul,103
+South Tipperary,County Council,2008,Aug,42
+South Tipperary,County Council,2008,Sept,82
+South Tipperary,County Council,2008,Oct,57
+South Tipperary,County Council,2008,Nov,72
+South Tipperary,County Council,2008,Dec,56
+Waterford,County Council,2008,Jan,107
+Waterford,County Council,2008,Feb,91
+Waterford,County Council,2008,Mar,68
+Waterford,County Council,2008,Apr,144
+Waterford,County Council,2008,May,100
+Waterford,County Council,2008,Jun,73
+Waterford,County Council,2008,Jul,68
+Waterford,County Council,2008,Aug,50
+Waterford,County Council,2008,Sept,45
+Waterford,County Council,2008,Oct,45
+Waterford,County Council,2008,Nov,109
+Waterford,County Council,2008,Dec,50
+Westmeath,County Council,2008,Jan,108
+Westmeath,County Council,2008,Feb,158
+Westmeath,County Council,2008,Mar,91
+Westmeath,County Council,2008,Apr,86
+Westmeath,County Council,2008,May,153
+Westmeath,County Council,2008,Jun,53
+Westmeath,County Council,2008,Jul,77
+Westmeath,County Council,2008,Aug,62
+Westmeath,County Council,2008,Sept,100
+Westmeath,County Council,2008,Oct,76
+Westmeath,County Council,2008,Nov,76
+Westmeath,County Council,2008,Dec,106
+Wexford,County Council,2008,Jan,159
+Wexford,County Council,2008,Feb,215
+Wexford,County Council,2008,Mar,151
+Wexford,County Council,2008,Apr,197
+Wexford,County Council,2008,May,200
+Wexford,County Council,2008,Jun,123
+Wexford,County Council,2008,Jul,242
+Wexford,County Council,2008,Aug,164
+Wexford,County Council,2008,Sept,127
+Wexford,County Council,2008,Oct,119
+Wexford,County Council,2008,Nov,154
+Wexford,County Council,2008,Dec,147
+Wicklow,County Council,2008,Jan,123
+Wicklow,County Council,2008,Feb,81
+Wicklow,County Council,2008,Mar,110
+Wicklow,County Council,2008,Apr,159
+Wicklow,County Council,2008,May,120
+Wicklow,County Council,2008,Jun,83
+Wicklow,County Council,2008,Jul,88
+Wicklow,County Council,2008,Aug,110
+Wicklow,County Council,2008,Sept,68
+Wicklow,County Council,2008,Oct,56
+Wicklow,County Council,2008,Nov,127
+Wicklow,County Council,2008,Dec,94
+Cork,City Council,2009,Jan,104
+Cork,City Council,2009,Feb,64
+Cork,City Council,2009,Mar,50
+Cork,City Council,2009,Apr,77
+Cork,City Council,2009,May,72
+Cork,City Council,2009,Jun,31
+Cork,City Council,2009,Jul,75
+Cork,City Council,2009,Aug,11
+Cork,City Council,2009,Sept,95
+Cork,City Council,2009,Oct,30
+Cork,City Council,2009,Nov,21
+Cork,City Council,2009,Dec,36
+Dublin,City Council,2009,Jan,150
+Dublin,City Council,2009,Feb,370
+Dublin,City Council,2009,Mar,136
+Dublin,City Council,2009,Apr,299
+Dublin,City Council,2009,May,118
+Dublin,City Council,2009,Jun,168
+Dublin,City Council,2009,Jul,220
+Dublin,City Council,2009,Aug,296
+Dublin,City Council,2009,Sept,113
+Dublin,City Council,2009,Oct,260
+Dublin,City Council,2009,Nov,136
+Dublin,City Council,2009,Dec,129
+Galway,City Council,2009,Jan,37
+Galway,City Council,2009,Feb,8
+Galway,City Council,2009,Mar,7
+Galway,City Council,2009,Apr,13
+Galway,City Council,2009,May,29
+Galway,City Council,2009,Jun,27
+Galway,City Council,2009,Jul,19
+Galway,City Council,2009,Aug,2
+Galway,City Council,2009,Sept,27
+Galway,City Council,2009,Oct,5
+Galway,City Council,2009,Nov,19
+Galway,City Council,2009,Dec,6
+Limerick,City Council,2009,Jan,13
+Limerick,City Council,2009,Feb,10
+Limerick,City Council,2009,Mar,15
+Limerick,City Council,2009,Apr,15
+Limerick,City Council,2009,May,3
+Limerick,City Council,2009,Jun,4
+Limerick,City Council,2009,Jul,3
+Limerick,City Council,2009,Aug,0
+Limerick,City Council,2009,Sept,11
+Limerick,City Council,2009,Oct,1
+Limerick,City Council,2009,Nov,6
+Limerick,City Council,2009,Dec,12
+Waterford,City Council,2009,Jan,24
+Waterford,City Council,2009,Feb,15
+Waterford,City Council,2009,Mar,21
+Waterford,City Council,2009,Apr,11
+Waterford,City Council,2009,May,20
+Waterford,City Council,2009,Jun,12
+Waterford,City Council,2009,Jul,12
+Waterford,City Council,2009,Aug,4
+Waterford,City Council,2009,Sept,18
+Waterford,City Council,2009,Oct,2
+Waterford,City Council,2009,Nov,7
+Waterford,City Council,2009,Dec,0
+Carlow,County Council,2009,Jan,19
+Carlow,County Council,2009,Feb,36
+Carlow,County Council,2009,Mar,50
+Carlow,County Council,2009,Apr,45
+Carlow,County Council,2009,May,31
+Carlow,County Council,2009,Jun,55
+Carlow,County Council,2009,Jul,26
+Carlow,County Council,2009,Aug,20
+Carlow,County Council,2009,Sept,29
+Carlow,County Council,2009,Oct,53
+Carlow,County Council,2009,Nov,35
+Carlow,County Council,2009,Dec,24
+Cavan,County Council,2009,Jan,65
+Cavan,County Council,2009,Feb,45
+Cavan,County Council,2009,Mar,38
+Cavan,County Council,2009,Apr,38
+Cavan,County Council,2009,May,44
+Cavan,County Council,2009,Jun,39
+Cavan,County Council,2009,Jul,42
+Cavan,County Council,2009,Aug,37
+Cavan,County Council,2009,Sept,63
+Cavan,County Council,2009,Oct,58
+Cavan,County Council,2009,Nov,30
+Cavan,County Council,2009,Dec,62
+Clare,County Council,2009,Jan,95
+Clare,County Council,2009,Feb,82
+Clare,County Council,2009,Mar,99
+Clare,County Council,2009,Apr,53
+Clare,County Council,2009,May,54
+Clare,County Council,2009,Jun,43
+Clare,County Council,2009,Jul,77
+Clare,County Council,2009,Aug,43
+Clare,County Council,2009,Sept,43
+Clare,County Council,2009,Oct,53
+Clare,County Council,2009,Nov,67
+Clare,County Council,2009,Dec,56
+Cork,County Council,2009,Jan,199
+Cork,County Council,2009,Feb,282
+Cork,County Council,2009,Mar,241
+Cork,County Council,2009,Apr,215
+Cork,County Council,2009,May,257
+Cork,County Council,2009,Jun,240
+Cork,County Council,2009,Jul,232
+Cork,County Council,2009,Aug,154
+Cork,County Council,2009,Sept,197
+Cork,County Council,2009,Oct,166
+Cork,County Council,2009,Nov,252
+Cork,County Council,2009,Dec,206
+Donegal,County Council,2009,Jan,126
+Donegal,County Council,2009,Feb,186
+Donegal,County Council,2009,Mar,132
+Donegal,County Council,2009,Apr,122
+Donegal,County Council,2009,May,143
+Donegal,County Council,2009,Jun,146
+Donegal,County Council,2009,Jul,150
+Donegal,County Council,2009,Aug,91
+Donegal,County Council,2009,Sept,159
+Donegal,County Council,2009,Oct,100
+Donegal,County Council,2009,Nov,156
+Donegal,County Council,2009,Dec,178
+Dun Laoghaire,County Council,2009,Jan,253
+Dun Laoghaire,County Council,2009,Feb,102
+Dun Laoghaire,County Council,2009,Mar,55
+Dun Laoghaire,County Council,2009,Apr,77
+Dun Laoghaire,County Council,2009,May,53
+Dun Laoghaire,County Council,2009,Jun,40
+Dun Laoghaire,County Council,2009,Jul,40
+Dun Laoghaire,County Council,2009,Aug,13
+Dun Laoghaire,County Council,2009,Sept,80
+Dun Laoghaire,County Council,2009,Oct,80
+Dun Laoghaire,County Council,2009,Nov,100
+Dun Laoghaire,County Council,2009,Dec,59
+Fingal,County Council,2009,Jan,111
+Fingal,County Council,2009,Feb,147
+Fingal,County Council,2009,Mar,128
+Fingal,County Council,2009,Apr,91
+Fingal,County Council,2009,May,89
+Fingal,County Council,2009,Jun,113
+Fingal,County Council,2009,Jul,186
+Fingal,County Council,2009,Aug,68
+Fingal,County Council,2009,Sept,104
+Fingal,County Council,2009,Oct,99
+Fingal,County Council,2009,Nov,82
+Fingal,County Council,2009,Dec,91
+Galway,County Council,2009,Jan,121
+Galway,County Council,2009,Feb,130
+Galway,County Council,2009,Mar,99
+Galway,County Council,2009,Apr,135
+Galway,County Council,2009,May,99
+Galway,County Council,2009,Jun,81
+Galway,County Council,2009,Jul,114
+Galway,County Council,2009,Aug,76
+Galway,County Council,2009,Sept,99
+Galway,County Council,2009,Oct,93
+Galway,County Council,2009,Nov,127
+Galway,County Council,2009,Dec,99
+Kerry,County Council,2009,Jan,49
+Kerry,County Council,2009,Feb,63
+Kerry,County Council,2009,Mar,100
+Kerry,County Council,2009,Apr,70
+Kerry,County Council,2009,May,66
+Kerry,County Council,2009,Jun,70
+Kerry,County Council,2009,Jul,117
+Kerry,County Council,2009,Aug,53
+Kerry,County Council,2009,Sept,61
+Kerry,County Council,2009,Oct,55
+Kerry,County Council,2009,Nov,63
+Kerry,County Council,2009,Dec,99
+Kildare,County Council,2009,Jan,74
+Kildare,County Council,2009,Feb,61
+Kildare,County Council,2009,Mar,92
+Kildare,County Council,2009,Apr,113
+Kildare,County Council,2009,May,117
+Kildare,County Council,2009,Jun,85
+Kildare,County Council,2009,Jul,54
+Kildare,County Council,2009,Aug,72
+Kildare,County Council,2009,Sept,87
+Kildare,County Council,2009,Oct,92
+Kildare,County Council,2009,Nov,76
+Kildare,County Council,2009,Dec,83
+Kilkenny,County Council,2009,Jan,47
+Kilkenny,County Council,2009,Feb,53
+Kilkenny,County Council,2009,Mar,39
+Kilkenny,County Council,2009,Apr,43
+Kilkenny,County Council,2009,May,40
+Kilkenny,County Council,2009,Jun,32
+Kilkenny,County Council,2009,Jul,47
+Kilkenny,County Council,2009,Aug,27
+Kilkenny,County Council,2009,Sept,38
+Kilkenny,County Council,2009,Oct,33
+Kilkenny,County Council,2009,Nov,35
+Kilkenny,County Council,2009,Dec,38
+Laois,County Council,2009,Jan,55
+Laois,County Council,2009,Feb,53
+Laois,County Council,2009,Mar,48
+Laois,County Council,2009,Apr,48
+Laois,County Council,2009,May,47
+Laois,County Council,2009,Jun,49
+Laois,County Council,2009,Jul,42
+Laois,County Council,2009,Aug,29
+Laois,County Council,2009,Sept,19
+Laois,County Council,2009,Oct,34
+Laois,County Council,2009,Nov,53
+Laois,County Council,2009,Dec,46
+Leitrim,County Council,2009,Jan,66
+Leitrim,County Council,2009,Feb,25
+Leitrim,County Council,2009,Mar,42
+Leitrim,County Council,2009,Apr,22
+Leitrim,County Council,2009,May,20
+Leitrim,County Council,2009,Jun,19
+Leitrim,County Council,2009,Jul,32
+Leitrim,County Council,2009,Aug,18
+Leitrim,County Council,2009,Sept,20
+Leitrim,County Council,2009,Oct,20
+Leitrim,County Council,2009,Nov,7
+Leitrim,County Council,2009,Dec,12
+Limerick,County Council,2009,Jan,50
+Limerick,County Council,2009,Feb,88
+Limerick,County Council,2009,Mar,102
+Limerick,County Council,2009,Apr,50
+Limerick,County Council,2009,May,84
+Limerick,County Council,2009,Jun,41
+Limerick,County Council,2009,Jul,47
+Limerick,County Council,2009,Aug,42
+Limerick,County Council,2009,Sept,43
+Limerick,County Council,2009,Oct,49
+Limerick,County Council,2009,Nov,61
+Limerick,County Council,2009,Dec,56
+Longford,County Council,2009,Jan,72
+Longford,County Council,2009,Feb,53
+Longford,County Council,2009,Mar,37
+Longford,County Council,2009,Apr,106
+Longford,County Council,2009,May,28
+Longford,County Council,2009,Jun,12
+Longford,County Council,2009,Jul,11
+Longford,County Council,2009,Aug,14
+Longford,County Council,2009,Sept,19
+Longford,County Council,2009,Oct,31
+Longford,County Council,2009,Nov,44
+Longford,County Council,2009,Dec,18
+Louth,County Council,2009,Jan,109
+Louth,County Council,2009,Feb,43
+Louth,County Council,2009,Mar,51
+Louth,County Council,2009,Apr,55
+Louth,County Council,2009,May,92
+Louth,County Council,2009,Jun,67
+Louth,County Council,2009,Jul,66
+Louth,County Council,2009,Aug,33
+Louth,County Council,2009,Sept,60
+Louth,County Council,2009,Oct,34
+Louth,County Council,2009,Nov,77
+Louth,County Council,2009,Dec,76
+Mayo,County Council,2009,Jan,121
+Mayo,County Council,2009,Feb,107
+Mayo,County Council,2009,Mar,71
+Mayo,County Council,2009,Apr,79
+Mayo,County Council,2009,May,96
+Mayo,County Council,2009,Jun,74
+Mayo,County Council,2009,Jul,79
+Mayo,County Council,2009,Aug,89
+Mayo,County Council,2009,Sept,99
+Mayo,County Council,2009,Oct,85
+Mayo,County Council,2009,Nov,54
+Mayo,County Council,2009,Dec,78
+Meath,County Council,2009,Jan,101
+Meath,County Council,2009,Feb,134
+Meath,County Council,2009,Mar,77
+Meath,County Council,2009,Apr,70
+Meath,County Council,2009,May,93
+Meath,County Council,2009,Jun,70
+Meath,County Council,2009,Jul,87
+Meath,County Council,2009,Aug,76
+Meath,County Council,2009,Sept,123
+Meath,County Council,2009,Oct,79
+Meath,County Council,2009,Nov,67
+Meath,County Council,2009,Dec,85
+Monaghan,County Council,2009,Jan,30
+Monaghan,County Council,2009,Feb,30
+Monaghan,County Council,2009,Mar,19
+Monaghan,County Council,2009,Apr,46
+Monaghan,County Council,2009,May,39
+Monaghan,County Council,2009,Jun,33
+Monaghan,County Council,2009,Jul,39
+Monaghan,County Council,2009,Aug,31
+Monaghan,County Council,2009,Sept,41
+Monaghan,County Council,2009,Oct,42
+Monaghan,County Council,2009,Nov,28
+Monaghan,County Council,2009,Dec,39
+North Tipperary,County Council,2009,Jan,41
+North Tipperary,County Council,2009,Feb,47
+North Tipperary,County Council,2009,Mar,40
+North Tipperary,County Council,2009,Apr,37
+North Tipperary,County Council,2009,May,40
+North Tipperary,County Council,2009,Jun,52
+North Tipperary,County Council,2009,Jul,51
+North Tipperary,County Council,2009,Aug,26
+North Tipperary,County Council,2009,Sept,29
+North Tipperary,County Council,2009,Oct,75
+North Tipperary,County Council,2009,Nov,68
+North Tipperary,County Council,2009,Dec,92
+Offaly,County Council,2009,Jan,38
+Offaly,County Council,2009,Feb,29
+Offaly,County Council,2009,Mar,49
+Offaly,County Council,2009,Apr,31
+Offaly,County Council,2009,May,26
+Offaly,County Council,2009,Jun,32
+Offaly,County Council,2009,Jul,28
+Offaly,County Council,2009,Aug,34
+Offaly,County Council,2009,Sept,32
+Offaly,County Council,2009,Oct,29
+Offaly,County Council,2009,Nov,24
+Offaly,County Council,2009,Dec,32
+Roscommon,County Council,2009,Jan,63
+Roscommon,County Council,2009,Feb,44
+Roscommon,County Council,2009,Mar,54
+Roscommon,County Council,2009,Apr,56
+Roscommon,County Council,2009,May,31
+Roscommon,County Council,2009,Jun,45
+Roscommon,County Council,2009,Jul,24
+Roscommon,County Council,2009,Aug,23
+Roscommon,County Council,2009,Sept,30
+Roscommon,County Council,2009,Oct,36
+Roscommon,County Council,2009,Nov,36
+Roscommon,County Council,2009,Dec,23
+Sligo,County Council,2009,Jan,47
+Sligo,County Council,2009,Feb,47
+Sligo,County Council,2009,Mar,46
+Sligo,County Council,2009,Apr,63
+Sligo,County Council,2009,May,44
+Sligo,County Council,2009,Jun,47
+Sligo,County Council,2009,Jul,55
+Sligo,County Council,2009,Aug,17
+Sligo,County Council,2009,Sept,41
+Sligo,County Council,2009,Oct,42
+Sligo,County Council,2009,Nov,21
+Sligo,County Council,2009,Dec,14
+South Dublin,County Council,2009,Jan,48
+South Dublin,County Council,2009,Feb,40
+South Dublin,County Council,2009,Mar,42
+South Dublin,County Council,2009,Apr,70
+South Dublin,County Council,2009,May,32
+South Dublin,County Council,2009,Jun,96
+South Dublin,County Council,2009,Jul,108
+South Dublin,County Council,2009,Aug,27
+South Dublin,County Council,2009,Sept,48
+South Dublin,County Council,2009,Oct,52
+South Dublin,County Council,2009,Nov,31
+South Dublin,County Council,2009,Dec,38
+South Tipperary,County Council,2009,Jan,32
+South Tipperary,County Council,2009,Feb,33
+South Tipperary,County Council,2009,Mar,37
+South Tipperary,County Council,2009,Apr,46
+South Tipperary,County Council,2009,May,20
+South Tipperary,County Council,2009,Jun,46
+South Tipperary,County Council,2009,Jul,47
+South Tipperary,County Council,2009,Aug,17
+South Tipperary,County Council,2009,Sept,43
+South Tipperary,County Council,2009,Oct,28
+South Tipperary,County Council,2009,Nov,29
+South Tipperary,County Council,2009,Dec,46
+Waterford,County Council,2009,Jan,46
+Waterford,County Council,2009,Feb,42
+Waterford,County Council,2009,Mar,51
+Waterford,County Council,2009,Apr,62
+Waterford,County Council,2009,May,36
+Waterford,County Council,2009,Jun,36
+Waterford,County Council,2009,Jul,42
+Waterford,County Council,2009,Aug,40
+Waterford,County Council,2009,Sept,36
+Waterford,County Council,2009,Oct,28
+Waterford,County Council,2009,Nov,39
+Waterford,County Council,2009,Dec,31
+Westmeath,County Council,2009,Jan,64
+Westmeath,County Council,2009,Feb,23
+Westmeath,County Council,2009,Mar,82
+Westmeath,County Council,2009,Apr,38
+Westmeath,County Council,2009,May,26
+Westmeath,County Council,2009,Jun,34
+Westmeath,County Council,2009,Jul,33
+Westmeath,County Council,2009,Aug,35
+Westmeath,County Council,2009,Sept,51
+Westmeath,County Council,2009,Oct,27
+Westmeath,County Council,2009,Nov,58
+Westmeath,County Council,2009,Dec,35
+Wexford,County Council,2009,Jan,98
+Wexford,County Council,2009,Feb,75
+Wexford,County Council,2009,Mar,98
+Wexford,County Council,2009,Apr,86
+Wexford,County Council,2009,May,85
+Wexford,County Council,2009,Jun,118
+Wexford,County Council,2009,Jul,74
+Wexford,County Council,2009,Aug,64
+Wexford,County Council,2009,Sept,96
+Wexford,County Council,2009,Oct,66
+Wexford,County Council,2009,Nov,78
+Wexford,County Council,2009,Dec,86
+Wicklow,County Council,2009,Jan,91
+Wicklow,County Council,2009,Feb,46
+Wicklow,County Council,2009,Mar,91
+Wicklow,County Council,2009,Apr,48
+Wicklow,County Council,2009,May,47
+Wicklow,County Council,2009,Jun,60
+Wicklow,County Council,2009,Jul,75
+Wicklow,County Council,2009,Aug,46
+Wicklow,County Council,2009,Sept,42
+Wicklow,County Council,2009,Oct,60
+Wicklow,County Council,2009,Nov,46
+Wicklow,County Council,2009,Dec,48
+Cork,City Council,2010,Jan,19
+Cork,City Council,2010,Feb,8
+Cork,City Council,2010,Mar,4
+Cork,City Council,2010,Apr,15
+Cork,City Council,2010,May,21
+Cork,City Council,2010,Jun,32
+Cork,City Council,2010,Jul,15
+Cork,City Council,2010,Aug,26
+Cork,City Council,2010,Sept,14
+Cork,City Council,2010,Oct,24
+Cork,City Council,2010,Nov,25
+Cork,City Council,2010,Dec,39
+Dublin,City Council,2010,Jan,119
+Dublin,City Council,2010,Feb,113
+Dublin,City Council,2010,Mar,80
+Dublin,City Council,2010,Apr,56
+Dublin,City Council,2010,May,74
+Dublin,City Council,2010,Jun,56
+Dublin,City Council,2010,Jul,55
+Dublin,City Council,2010,Aug,25
+Dublin,City Council,2010,Sept,59
+Dublin,City Council,2010,Oct,68
+Dublin,City Council,2010,Nov,151
+Dublin,City Council,2010,Dec,55
+Galway,City Council,2010,Jan,5
+Galway,City Council,2010,Feb,5
+Galway,City Council,2010,Mar,4
+Galway,City Council,2010,Apr,2
+Galway,City Council,2010,May,7
+Galway,City Council,2010,Jun,10
+Galway,City Council,2010,Jul,6
+Galway,City Council,2010,Aug,4
+Galway,City Council,2010,Sept,10
+Galway,City Council,2010,Oct,2
+Galway,City Council,2010,Nov,11
+Galway,City Council,2010,Dec,11
+Limerick,City Council,2010,Jan,2
+Limerick,City Council,2010,Feb,3
+Limerick,City Council,2010,Mar,2
+Limerick,City Council,2010,Apr,2
+Limerick,City Council,2010,May,2
+Limerick,City Council,2010,Jun,7
+Limerick,City Council,2010,Jul,10
+Limerick,City Council,2010,Aug,1
+Limerick,City Council,2010,Sept,9
+Limerick,City Council,2010,Oct,2
+Limerick,City Council,2010,Nov,2
+Limerick,City Council,2010,Dec,2
+Waterford,City Council,2010,Jan,3
+Waterford,City Council,2010,Feb,4
+Waterford,City Council,2010,Mar,2
+Waterford,City Council,2010,Apr,1
+Waterford,City Council,2010,May,3
+Waterford,City Council,2010,Jun,4
+Waterford,City Council,2010,Jul,1
+Waterford,City Council,2010,Aug,11
+Waterford,City Council,2010,Sept,2
+Waterford,City Council,2010,Oct,40
+Waterford,City Council,2010,Nov,33
+Waterford,City Council,2010,Dec,6
+Carlow,County Council,2010,Jan,16
+Carlow,County Council,2010,Feb,13
+Carlow,County Council,2010,Mar,12
+Carlow,County Council,2010,Apr,18
+Carlow,County Council,2010,May,17
+Carlow,County Council,2010,Jun,8
+Carlow,County Council,2010,Jul,9
+Carlow,County Council,2010,Aug,13
+Carlow,County Council,2010,Sept,18
+Carlow,County Council,2010,Oct,29
+Carlow,County Council,2010,Nov,50
+Carlow,County Council,2010,Dec,27
+Cavan,County Council,2010,Jan,19
+Cavan,County Council,2010,Feb,33
+Cavan,County Council,2010,Mar,26
+Cavan,County Council,2010,Apr,20
+Cavan,County Council,2010,May,28
+Cavan,County Council,2010,Jun,36
+Cavan,County Council,2010,Jul,14
+Cavan,County Council,2010,Aug,11
+Cavan,County Council,2010,Sept,24
+Cavan,County Council,2010,Oct,19
+Cavan,County Council,2010,Nov,41
+Cavan,County Council,2010,Dec,25
+Clare,County Council,2010,Jan,21
+Clare,County Council,2010,Feb,49
+Clare,County Council,2010,Mar,57
+Clare,County Council,2010,Apr,117
+Clare,County Council,2010,May,100
+Clare,County Council,2010,Jun,34
+Clare,County Council,2010,Jul,31
+Clare,County Council,2010,Aug,40
+Clare,County Council,2010,Sept,29
+Clare,County Council,2010,Oct,32
+Clare,County Council,2010,Nov,40
+Clare,County Council,2010,Dec,42
+Cork,County Council,2010,Jan,93
+Cork,County Council,2010,Feb,128
+Cork,County Council,2010,Mar,209
+Cork,County Council,2010,Apr,145
+Cork,County Council,2010,May,162
+Cork,County Council,2010,Jun,119
+Cork,County Council,2010,Jul,179
+Cork,County Council,2010,Aug,135
+Cork,County Council,2010,Sept,140
+Cork,County Council,2010,Oct,94
+Cork,County Council,2010,Nov,177
+Cork,County Council,2010,Dec,117
+Donegal,County Council,2010,Jan,57
+Donegal,County Council,2010,Feb,64
+Donegal,County Council,2010,Mar,91
+Donegal,County Council,2010,Apr,60
+Donegal,County Council,2010,May,59
+Donegal,County Council,2010,Jun,54
+Donegal,County Council,2010,Jul,70
+Donegal,County Council,2010,Aug,48
+Donegal,County Council,2010,Sept,70
+Donegal,County Council,2010,Oct,52
+Donegal,County Council,2010,Nov,105
+Donegal,County Council,2010,Dec,95
+Dun Laoghaire,County Council,2010,Jan,51
+Dun Laoghaire,County Council,2010,Feb,29
+Dun Laoghaire,County Council,2010,Mar,12
+Dun Laoghaire,County Council,2010,Apr,24
+Dun Laoghaire,County Council,2010,May,18
+Dun Laoghaire,County Council,2010,Jun,15
+Dun Laoghaire,County Council,2010,Jul,13
+Dun Laoghaire,County Council,2010,Aug,38
+Dun Laoghaire,County Council,2010,Sept,83
+Dun Laoghaire,County Council,2010,Oct,76
+Dun Laoghaire,County Council,2010,Nov,10
+Dun Laoghaire,County Council,2010,Dec,15
+Fingal,County Council,2010,Jan,75
+Fingal,County Council,2010,Feb,36
+Fingal,County Council,2010,Mar,67
+Fingal,County Council,2010,Apr,20
+Fingal,County Council,2010,May,41
+Fingal,County Council,2010,Jun,28
+Fingal,County Council,2010,Jul,28
+Fingal,County Council,2010,Aug,49
+Fingal,County Council,2010,Sept,40
+Fingal,County Council,2010,Oct,65
+Fingal,County Council,2010,Nov,58
+Fingal,County Council,2010,Dec,33
+Galway,County Council,2010,Jan,56
+Galway,County Council,2010,Feb,102
+Galway,County Council,2010,Mar,67
+Galway,County Council,2010,Apr,70
+Galway,County Council,2010,May,59
+Galway,County Council,2010,Jun,56
+Galway,County Council,2010,Jul,57
+Galway,County Council,2010,Aug,54
+Galway,County Council,2010,Sept,75
+Galway,County Council,2010,Oct,64
+Galway,County Council,2010,Nov,82
+Galway,County Council,2010,Dec,83
+Kerry,County Council,2010,Jan,23
+Kerry,County Council,2010,Feb,47
+Kerry,County Council,2010,Mar,53
+Kerry,County Council,2010,Apr,62
+Kerry,County Council,2010,May,62
+Kerry,County Council,2010,Jun,70
+Kerry,County Council,2010,Jul,44
+Kerry,County Council,2010,Aug,31
+Kerry,County Council,2010,Sept,44
+Kerry,County Council,2010,Oct,39
+Kerry,County Council,2010,Nov,33
+Kerry,County Council,2010,Dec,38
+Kildare,County Council,2010,Jan,44
+Kildare,County Council,2010,Feb,63
+Kildare,County Council,2010,Mar,40
+Kildare,County Council,2010,Apr,41
+Kildare,County Council,2010,May,51
+Kildare,County Council,2010,Jun,46
+Kildare,County Council,2010,Jul,56
+Kildare,County Council,2010,Aug,60
+Kildare,County Council,2010,Sept,76
+Kildare,County Council,2010,Oct,43
+Kildare,County Council,2010,Nov,54
+Kildare,County Council,2010,Dec,41
+Kilkenny,County Council,2010,Jan,25
+Kilkenny,County Council,2010,Feb,22
+Kilkenny,County Council,2010,Mar,34
+Kilkenny,County Council,2010,Apr,28
+Kilkenny,County Council,2010,May,32
+Kilkenny,County Council,2010,Jun,43
+Kilkenny,County Council,2010,Jul,39
+Kilkenny,County Council,2010,Aug,23
+Kilkenny,County Council,2010,Sept,22
+Kilkenny,County Council,2010,Oct,27
+Kilkenny,County Council,2010,Nov,30
+Kilkenny,County Council,2010,Dec,18
+Laois,County Council,2010,Jan,17
+Laois,County Council,2010,Feb,20
+Laois,County Council,2010,Mar,21
+Laois,County Council,2010,Apr,19
+Laois,County Council,2010,May,9
+Laois,County Council,2010,Jun,12
+Laois,County Council,2010,Jul,24
+Laois,County Council,2010,Aug,30
+Laois,County Council,2010,Sept,14
+Laois,County Council,2010,Oct,14
+Laois,County Council,2010,Nov,33
+Laois,County Council,2010,Dec,23
+Leitrim,County Council,2010,Jan,6
+Leitrim,County Council,2010,Feb,23
+Leitrim,County Council,2010,Mar,16
+Leitrim,County Council,2010,Apr,11
+Leitrim,County Council,2010,May,17
+Leitrim,County Council,2010,Jun,13
+Leitrim,County Council,2010,Jul,11
+Leitrim,County Council,2010,Aug,8
+Leitrim,County Council,2010,Sept,11
+Leitrim,County Council,2010,Oct,12
+Leitrim,County Council,2010,Nov,11
+Leitrim,County Council,2010,Dec,3
+Limerick,County Council,2010,Jan,31
+Limerick,County Council,2010,Feb,35
+Limerick,County Council,2010,Mar,46
+Limerick,County Council,2010,Apr,33
+Limerick,County Council,2010,May,30
+Limerick,County Council,2010,Jun,35
+Limerick,County Council,2010,Jul,33
+Limerick,County Council,2010,Aug,40
+Limerick,County Council,2010,Sept,28
+Limerick,County Council,2010,Oct,59
+Limerick,County Council,2010,Nov,36
+Limerick,County Council,2010,Dec,29
+Longford,County Council,2010,Jan,10
+Longford,County Council,2010,Feb,16
+Longford,County Council,2010,Mar,13
+Longford,County Council,2010,Apr,8
+Longford,County Council,2010,May,6
+Longford,County Council,2010,Jun,3
+Longford,County Council,2010,Jul,8
+Longford,County Council,2010,Aug,13
+Longford,County Council,2010,Sept,18
+Longford,County Council,2010,Oct,11
+Longford,County Council,2010,Nov,31
+Longford,County Council,2010,Dec,15
+Louth,County Council,2010,Jan,98
+Louth,County Council,2010,Feb,31
+Louth,County Council,2010,Mar,19
+Louth,County Council,2010,Apr,30
+Louth,County Council,2010,May,35
+Louth,County Council,2010,Jun,31
+Louth,County Council,2010,Jul,22
+Louth,County Council,2010,Aug,22
+Louth,County Council,2010,Sept,22
+Louth,County Council,2010,Oct,38
+Louth,County Council,2010,Nov,30
+Louth,County Council,2010,Dec,26
+Mayo,County Council,2010,Jan,43
+Mayo,County Council,2010,Feb,42
+Mayo,County Council,2010,Mar,60
+Mayo,County Council,2010,Apr,47
+Mayo,County Council,2010,May,50
+Mayo,County Council,2010,Jun,57
+Mayo,County Council,2010,Jul,45
+Mayo,County Council,2010,Aug,47
+Mayo,County Council,2010,Sept,65
+Mayo,County Council,2010,Oct,61
+Mayo,County Council,2010,Nov,58
+Mayo,County Council,2010,Dec,42
+Meath,County Council,2010,Jan,36
+Meath,County Council,2010,Feb,54
+Meath,County Council,2010,Mar,45
+Meath,County Council,2010,Apr,45
+Meath,County Council,2010,May,41
+Meath,County Council,2010,Jun,31
+Meath,County Council,2010,Jul,57
+Meath,County Council,2010,Aug,67
+Meath,County Council,2010,Sept,81
+Meath,County Council,2010,Oct,37
+Meath,County Council,2010,Nov,66
+Meath,County Council,2010,Dec,59
+Monaghan,County Council,2010,Jan,14
+Monaghan,County Council,2010,Feb,16
+Monaghan,County Council,2010,Mar,15
+Monaghan,County Council,2010,Apr,27
+Monaghan,County Council,2010,May,19
+Monaghan,County Council,2010,Jun,20
+Monaghan,County Council,2010,Jul,13
+Monaghan,County Council,2010,Aug,16
+Monaghan,County Council,2010,Sept,13
+Monaghan,County Council,2010,Oct,15
+Monaghan,County Council,2010,Nov,21
+Monaghan,County Council,2010,Dec,19
+North Tipperary,County Council,2010,Jan,22
+North Tipperary,County Council,2010,Feb,24
+North Tipperary,County Council,2010,Mar,41
+North Tipperary,County Council,2010,Apr,28
+North Tipperary,County Council,2010,May,13
+North Tipperary,County Council,2010,Jun,24
+North Tipperary,County Council,2010,Jul,33
+North Tipperary,County Council,2010,Aug,18
+North Tipperary,County Council,2010,Sept,29
+North Tipperary,County Council,2010,Oct,22
+North Tipperary,County Council,2010,Nov,25
+North Tipperary,County Council,2010,Dec,23
+Offaly,County Council,2010,Jan,17
+Offaly,County Council,2010,Feb,13
+Offaly,County Council,2010,Mar,15
+Offaly,County Council,2010,Apr,22
+Offaly,County Council,2010,May,16
+Offaly,County Council,2010,Jun,18
+Offaly,County Council,2010,Jul,29
+Offaly,County Council,2010,Aug,24
+Offaly,County Council,2010,Sept,28
+Offaly,County Council,2010,Oct,26
+Offaly,County Council,2010,Nov,21
+Offaly,County Council,2010,Dec,23
+Roscommon,County Council,2010,Jan,30
+Roscommon,County Council,2010,Feb,44
+Roscommon,County Council,2010,Mar,22
+Roscommon,County Council,2010,Apr,32
+Roscommon,County Council,2010,May,17
+Roscommon,County Council,2010,Jun,16
+Roscommon,County Council,2010,Jul,42
+Roscommon,County Council,2010,Aug,26
+Roscommon,County Council,2010,Sept,34
+Roscommon,County Council,2010,Oct,16
+Roscommon,County Council,2010,Nov,22
+Roscommon,County Council,2010,Dec,18
+Sligo,County Council,2010,Jan,33
+Sligo,County Council,2010,Feb,20
+Sligo,County Council,2010,Mar,17
+Sligo,County Council,2010,Apr,14
+Sligo,County Council,2010,May,11
+Sligo,County Council,2010,Jun,9
+Sligo,County Council,2010,Jul,20
+Sligo,County Council,2010,Aug,29
+Sligo,County Council,2010,Sept,31
+Sligo,County Council,2010,Oct,16
+Sligo,County Council,2010,Nov,12
+Sligo,County Council,2010,Dec,11
+South Dublin,County Council,2010,Jan,29
+South Dublin,County Council,2010,Feb,30
+South Dublin,County Council,2010,Mar,42
+South Dublin,County Council,2010,Apr,7
+South Dublin,County Council,2010,May,20
+South Dublin,County Council,2010,Jun,23
+South Dublin,County Council,2010,Jul,66
+South Dublin,County Council,2010,Aug,35
+South Dublin,County Council,2010,Sept,16
+South Dublin,County Council,2010,Oct,17
+South Dublin,County Council,2010,Nov,80
+South Dublin,County Council,2010,Dec,40
+South Tipperary,County Council,2010,Jan,21
+South Tipperary,County Council,2010,Feb,33
+South Tipperary,County Council,2010,Mar,21
+South Tipperary,County Council,2010,Apr,15
+South Tipperary,County Council,2010,May,17
+South Tipperary,County Council,2010,Jun,19
+South Tipperary,County Council,2010,Jul,27
+South Tipperary,County Council,2010,Aug,19
+South Tipperary,County Council,2010,Sept,22
+South Tipperary,County Council,2010,Oct,45
+South Tipperary,County Council,2010,Nov,22
+South Tipperary,County Council,2010,Dec,30
+Waterford,County Council,2010,Jan,73
+Waterford,County Council,2010,Feb,22
+Waterford,County Council,2010,Mar,22
+Waterford,County Council,2010,Apr,29
+Waterford,County Council,2010,May,27
+Waterford,County Council,2010,Jun,19
+Waterford,County Council,2010,Jul,26
+Waterford,County Council,2010,Aug,33
+Waterford,County Council,2010,Sept,23
+Waterford,County Council,2010,Oct,15
+Waterford,County Council,2010,Nov,23
+Waterford,County Council,2010,Dec,20
+Westmeath,County Council,2010,Jan,20
+Westmeath,County Council,2010,Feb,25
+Westmeath,County Council,2010,Mar,20
+Westmeath,County Council,2010,Apr,26
+Westmeath,County Council,2010,May,32
+Westmeath,County Council,2010,Jun,24
+Westmeath,County Council,2010,Jul,24
+Westmeath,County Council,2010,Aug,19
+Westmeath,County Council,2010,Sept,17
+Westmeath,County Council,2010,Oct,56
+Westmeath,County Council,2010,Nov,45
+Westmeath,County Council,2010,Dec,26
+Wexford,County Council,2010,Jan,39
+Wexford,County Council,2010,Feb,66
+Wexford,County Council,2010,Mar,62
+Wexford,County Council,2010,Apr,48
+Wexford,County Council,2010,May,64
+Wexford,County Council,2010,Jun,46
+Wexford,County Council,2010,Jul,66
+Wexford,County Council,2010,Aug,93
+Wexford,County Council,2010,Sept,43
+Wexford,County Council,2010,Oct,44
+Wexford,County Council,2010,Nov,55
+Wexford,County Council,2010,Dec,33
+Wicklow,County Council,2010,Jan,40
+Wicklow,County Council,2010,Feb,25
+Wicklow,County Council,2010,Mar,37
+Wicklow,County Council,2010,Apr,44
+Wicklow,County Council,2010,May,27
+Wicklow,County Council,2010,Jun,40
+Wicklow,County Council,2010,Jul,40
+Wicklow,County Council,2010,Aug,22
+Wicklow,County Council,2010,Sept,40
+Wicklow,County Council,2010,Oct,31
+Wicklow,County Council,2010,Nov,33
+Wicklow,County Council,2010,Dec,15
+Cork,City Council,2011,Jan,2
+Cork,City Council,2011,Feb,15
+Cork,City Council,2011,Mar,12
+Cork,City Council,2011,Apr,14
+Cork,City Council,2011,May,10
+Cork,City Council,2011,Jun,5
+Cork,City Council,2011,Jul,24
+Cork,City Council,2011,Aug,12
+Cork,City Council,2011,Sept,5
+Cork,City Council,2011,Oct,14
+Cork,City Council,2011,Nov,9
+Cork,City Council,2011,Dec,5
+Dublin,City Council,2011,Jan,82
+Dublin,City Council,2011,Feb,32
+Dublin,City Council,2011,Mar,60
+Dublin,City Council,2011,Apr,47
+Dublin,City Council,2011,May,75
+Dublin,City Council,2011,Jun,46
+Dublin,City Council,2011,Jul,25
+Dublin,City Council,2011,Aug,21
+Dublin,City Council,2011,Sept,23
+Dublin,City Council,2011,Oct,46
+Dublin,City Council,2011,Nov,48
+Dublin,City Council,2011,Dec,52
+Galway,City Council,2011,Jan,11
+Galway,City Council,2011,Feb,12
+Galway,City Council,2011,Mar,6
+Galway,City Council,2011,Apr,10
+Galway,City Council,2011,May,5
+Galway,City Council,2011,Jun,6
+Galway,City Council,2011,Jul,1
+Galway,City Council,2011,Aug,0
+Galway,City Council,2011,Sept,8
+Galway,City Council,2011,Oct,1
+Galway,City Council,2011,Nov,6
+Galway,City Council,2011,Dec,6
+Limerick,City Council,2011,Jan,0
+Limerick,City Council,2011,Feb,2
+Limerick,City Council,2011,Mar,4
+Limerick,City Council,2011,Apr,3
+Limerick,City Council,2011,May,1
+Limerick,City Council,2011,Jun,0
+Limerick,City Council,2011,Jul,11
+Limerick,City Council,2011,Aug,10
+Limerick,City Council,2011,Sept,5
+Limerick,City Council,2011,Oct,1
+Limerick,City Council,2011,Nov,3
+Limerick,City Council,2011,Dec,3
+Waterford,City Council,2011,Jan,41
+Waterford,City Council,2011,Feb,5
+Waterford,City Council,2011,Mar,10
+Waterford,City Council,2011,Apr,2
+Waterford,City Council,2011,May,6
+Waterford,City Council,2011,Jun,2
+Waterford,City Council,2011,Jul,3
+Waterford,City Council,2011,Aug,3
+Waterford,City Council,2011,Sept,5
+Waterford,City Council,2011,Oct,4
+Waterford,City Council,2011,Nov,1
+Waterford,City Council,2011,Dec,2
+Carlow,County Council,2011,Jan,10
+Carlow,County Council,2011,Feb,10
+Carlow,County Council,2011,Mar,6
+Carlow,County Council,2011,Apr,8
+Carlow,County Council,2011,May,6
+Carlow,County Council,2011,Jun,23
+Carlow,County Council,2011,Jul,41
+Carlow,County Council,2011,Aug,17
+Carlow,County Council,2011,Sept,9
+Carlow,County Council,2011,Oct,29
+Carlow,County Council,2011,Nov,17
+Carlow,County Council,2011,Dec,13
+Cavan,County Council,2011,Jan,32
+Cavan,County Council,2011,Feb,17
+Cavan,County Council,2011,Mar,40
+Cavan,County Council,2011,Apr,19
+Cavan,County Council,2011,May,18
+Cavan,County Council,2011,Jun,19
+Cavan,County Council,2011,Jul,20
+Cavan,County Council,2011,Aug,28
+Cavan,County Council,2011,Sept,24
+Cavan,County Council,2011,Oct,13
+Cavan,County Council,2011,Nov,28
+Cavan,County Council,2011,Dec,14
+Clare,County Council,2011,Jan,19
+Clare,County Council,2011,Feb,28
+Clare,County Council,2011,Mar,27
+Clare,County Council,2011,Apr,16
+Clare,County Council,2011,May,26
+Clare,County Council,2011,Jun,24
+Clare,County Council,2011,Jul,23
+Clare,County Council,2011,Aug,20
+Clare,County Council,2011,Sept,25
+Clare,County Council,2011,Oct,32
+Clare,County Council,2011,Nov,32
+Clare,County Council,2011,Dec,22
+Cork,County Council,2011,Jan,129
+Cork,County Council,2011,Feb,85
+Cork,County Council,2011,Mar,149
+Cork,County Council,2011,Apr,99
+Cork,County Council,2011,May,100
+Cork,County Council,2011,Jun,95
+Cork,County Council,2011,Jul,90
+Cork,County Council,2011,Aug,113
+Cork,County Council,2011,Sept,121
+Cork,County Council,2011,Oct,101
+Cork,County Council,2011,Nov,135
+Cork,County Council,2011,Dec,115
+Donegal,County Council,2011,Jan,41
+Donegal,County Council,2011,Feb,56
+Donegal,County Council,2011,Mar,62
+Donegal,County Council,2011,Apr,48
+Donegal,County Council,2011,May,55
+Donegal,County Council,2011,Jun,82
+Donegal,County Council,2011,Jul,50
+Donegal,County Council,2011,Aug,42
+Donegal,County Council,2011,Sept,42
+Donegal,County Council,2011,Oct,49
+Donegal,County Council,2011,Nov,45
+Donegal,County Council,2011,Dec,38
+Dun Laoghaire,County Council,2011,Jan,16
+Dun Laoghaire,County Council,2011,Feb,15
+Dun Laoghaire,County Council,2011,Mar,36
+Dun Laoghaire,County Council,2011,Apr,34
+Dun Laoghaire,County Council,2011,May,30
+Dun Laoghaire,County Council,2011,Jun,16
+Dun Laoghaire,County Council,2011,Jul,3
+Dun Laoghaire,County Council,2011,Aug,8
+Dun Laoghaire,County Council,2011,Sept,6
+Dun Laoghaire,County Council,2011,Oct,5
+Dun Laoghaire,County Council,2011,Nov,12
+Dun Laoghaire,County Council,2011,Dec,11
+Fingal,County Council,2011,Jan,21
+Fingal,County Council,2011,Feb,93
+Fingal,County Council,2011,Mar,69
+Fingal,County Council,2011,Apr,110
+Fingal,County Council,2011,May,27
+Fingal,County Council,2011,Jun,56
+Fingal,County Council,2011,Jul,30
+Fingal,County Council,2011,Aug,69
+Fingal,County Council,2011,Sept,73
+Fingal,County Council,2011,Oct,44
+Fingal,County Council,2011,Nov,40
+Fingal,County Council,2011,Dec,30
+Galway,County Council,2011,Jan,42
+Galway,County Council,2011,Feb,50
+Galway,County Council,2011,Mar,60
+Galway,County Council,2011,Apr,45
+Galway,County Council,2011,May,46
+Galway,County Council,2011,Jun,62
+Galway,County Council,2011,Jul,47
+Galway,County Council,2011,Aug,38
+Galway,County Council,2011,Sept,68
+Galway,County Council,2011,Oct,37
+Galway,County Council,2011,Nov,58
+Galway,County Council,2011,Dec,67
+Kerry,County Council,2011,Jan,16
+Kerry,County Council,2011,Feb,30
+Kerry,County Council,2011,Mar,39
+Kerry,County Council,2011,Apr,29
+Kerry,County Council,2011,May,27
+Kerry,County Council,2011,Jun,44
+Kerry,County Council,2011,Jul,35
+Kerry,County Council,2011,Aug,27
+Kerry,County Council,2011,Sept,42
+Kerry,County Council,2011,Oct,26
+Kerry,County Council,2011,Nov,25
+Kerry,County Council,2011,Dec,47
+Kildare,County Council,2011,Jan,25
+Kildare,County Council,2011,Feb,32
+Kildare,County Council,2011,Mar,95
+Kildare,County Council,2011,Apr,26
+Kildare,County Council,2011,May,27
+Kildare,County Council,2011,Jun,14
+Kildare,County Council,2011,Jul,26
+Kildare,County Council,2011,Aug,23
+Kildare,County Council,2011,Sept,18
+Kildare,County Council,2011,Oct,32
+Kildare,County Council,2011,Nov,40
+Kildare,County Council,2011,Dec,49
+Kilkenny,County Council,2011,Jan,10
+Kilkenny,County Council,2011,Feb,21
+Kilkenny,County Council,2011,Mar,18
+Kilkenny,County Council,2011,Apr,17
+Kilkenny,County Council,2011,May,15
+Kilkenny,County Council,2011,Jun,26
+Kilkenny,County Council,2011,Jul,44
+Kilkenny,County Council,2011,Aug,35
+Kilkenny,County Council,2011,Sept,31
+Kilkenny,County Council,2011,Oct,21
+Kilkenny,County Council,2011,Nov,20
+Kilkenny,County Council,2011,Dec,32
+Laois,County Council,2011,Jan,9
+Laois,County Council,2011,Feb,17
+Laois,County Council,2011,Mar,19
+Laois,County Council,2011,Apr,17
+Laois,County Council,2011,May,23
+Laois,County Council,2011,Jun,13
+Laois,County Council,2011,Jul,15
+Laois,County Council,2011,Aug,16
+Laois,County Council,2011,Sept,18
+Laois,County Council,2011,Oct,14
+Laois,County Council,2011,Nov,29
+Laois,County Council,2011,Dec,15
+Leitrim,County Council,2011,Jan,30
+Leitrim,County Council,2011,Feb,23
+Leitrim,County Council,2011,Mar,10
+Leitrim,County Council,2011,Apr,4
+Leitrim,County Council,2011,May,7
+Leitrim,County Council,2011,Jun,9
+Leitrim,County Council,2011,Jul,11
+Leitrim,County Council,2011,Aug,3
+Leitrim,County Council,2011,Sept,10
+Leitrim,County Council,2011,Oct,1
+Leitrim,County Council,2011,Nov,9
+Leitrim,County Council,2011,Dec,8
+Limerick,County Council,2011,Jan,13
+Limerick,County Council,2011,Feb,21
+Limerick,County Council,2011,Mar,25
+Limerick,County Council,2011,Apr,25
+Limerick,County Council,2011,May,19
+Limerick,County Council,2011,Jun,28
+Limerick,County Council,2011,Jul,27
+Limerick,County Council,2011,Aug,21
+Limerick,County Council,2011,Sept,18
+Limerick,County Council,2011,Oct,22
+Limerick,County Council,2011,Nov,49
+Limerick,County Council,2011,Dec,36
+Longford,County Council,2011,Jan,8
+Longford,County Council,2011,Feb,8
+Longford,County Council,2011,Mar,3
+Longford,County Council,2011,Apr,10
+Longford,County Council,2011,May,3
+Longford,County Council,2011,Jun,17
+Longford,County Council,2011,Jul,5
+Longford,County Council,2011,Aug,3
+Longford,County Council,2011,Sept,10
+Longford,County Council,2011,Oct,8
+Longford,County Council,2011,Nov,5
+Longford,County Council,2011,Dec,9
+Louth,County Council,2011,Jan,30
+Louth,County Council,2011,Feb,19
+Louth,County Council,2011,Mar,21
+Louth,County Council,2011,Apr,15
+Louth,County Council,2011,May,17
+Louth,County Council,2011,Jun,37
+Louth,County Council,2011,Jul,17
+Louth,County Council,2011,Aug,19
+Louth,County Council,2011,Sept,25
+Louth,County Council,2011,Oct,18
+Louth,County Council,2011,Nov,19
+Louth,County Council,2011,Dec,20
+Mayo,County Council,2011,Jan,36
+Mayo,County Council,2011,Feb,32
+Mayo,County Council,2011,Mar,24
+Mayo,County Council,2011,Apr,25
+Mayo,County Council,2011,May,26
+Mayo,County Council,2011,Jun,26
+Mayo,County Council,2011,Jul,73
+Mayo,County Council,2011,Aug,39
+Mayo,County Council,2011,Sept,70
+Mayo,County Council,2011,Oct,29
+Mayo,County Council,2011,Nov,43
+Mayo,County Council,2011,Dec,47
+Meath,County Council,2011,Jan,26
+Meath,County Council,2011,Feb,32
+Meath,County Council,2011,Mar,39
+Meath,County Council,2011,Apr,26
+Meath,County Council,2011,May,31
+Meath,County Council,2011,Jun,34
+Meath,County Council,2011,Jul,30
+Meath,County Council,2011,Aug,33
+Meath,County Council,2011,Sept,30
+Meath,County Council,2011,Oct,28
+Meath,County Council,2011,Nov,35
+Meath,County Council,2011,Dec,25
+Monaghan,County Council,2011,Jan,12
+Monaghan,County Council,2011,Feb,11
+Monaghan,County Council,2011,Mar,14
+Monaghan,County Council,2011,Apr,4
+Monaghan,County Council,2011,May,14
+Monaghan,County Council,2011,Jun,12
+Monaghan,County Council,2011,Jul,15
+Monaghan,County Council,2011,Aug,16
+Monaghan,County Council,2011,Sept,18
+Monaghan,County Council,2011,Oct,17
+Monaghan,County Council,2011,Nov,18
+Monaghan,County Council,2011,Dec,13
+North Tipperary,County Council,2011,Jan,8
+North Tipperary,County Council,2011,Feb,19
+North Tipperary,County Council,2011,Mar,17
+North Tipperary,County Council,2011,Apr,20
+North Tipperary,County Council,2011,May,33
+North Tipperary,County Council,2011,Jun,33
+North Tipperary,County Council,2011,Jul,15
+North Tipperary,County Council,2011,Aug,23
+North Tipperary,County Council,2011,Sept,22
+North Tipperary,County Council,2011,Oct,20
+North Tipperary,County Council,2011,Nov,24
+North Tipperary,County Council,2011,Dec,22
+Offaly,County Council,2011,Jan,12
+Offaly,County Council,2011,Feb,12
+Offaly,County Council,2011,Mar,13
+Offaly,County Council,2011,Apr,20
+Offaly,County Council,2011,May,15
+Offaly,County Council,2011,Jun,10
+Offaly,County Council,2011,Jul,17
+Offaly,County Council,2011,Aug,22
+Offaly,County Council,2011,Sept,8
+Offaly,County Council,2011,Oct,16
+Offaly,County Council,2011,Nov,22
+Offaly,County Council,2011,Dec,20
+Roscommon,County Council,2011,Jan,13
+Roscommon,County Council,2011,Feb,16
+Roscommon,County Council,2011,Mar,22
+Roscommon,County Council,2011,Apr,27
+Roscommon,County Council,2011,May,13
+Roscommon,County Council,2011,Jun,32
+Roscommon,County Council,2011,Jul,21
+Roscommon,County Council,2011,Aug,11
+Roscommon,County Council,2011,Sept,14
+Roscommon,County Council,2011,Oct,14
+Roscommon,County Council,2011,Nov,14
+Roscommon,County Council,2011,Dec,15
+Sligo,County Council,2011,Jan,23
+Sligo,County Council,2011,Feb,34
+Sligo,County Council,2011,Mar,17
+Sligo,County Council,2011,Apr,19
+Sligo,County Council,2011,May,16
+Sligo,County Council,2011,Jun,11
+Sligo,County Council,2011,Jul,33
+Sligo,County Council,2011,Aug,14
+Sligo,County Council,2011,Sept,16
+Sligo,County Council,2011,Oct,14
+Sligo,County Council,2011,Nov,18
+Sligo,County Council,2011,Dec,9
+South Dublin,County Council,2011,Jan,30
+South Dublin,County Council,2011,Feb,16
+South Dublin,County Council,2011,Mar,12
+South Dublin,County Council,2011,Apr,10
+South Dublin,County Council,2011,May,8
+South Dublin,County Council,2011,Jun,6
+South Dublin,County Council,2011,Jul,7
+South Dublin,County Council,2011,Aug,8
+South Dublin,County Council,2011,Sept,9
+South Dublin,County Council,2011,Oct,20
+South Dublin,County Council,2011,Nov,25
+South Dublin,County Council,2011,Dec,9
+South Tipperary,County Council,2011,Jan,4
+South Tipperary,County Council,2011,Feb,13
+South Tipperary,County Council,2011,Mar,22
+South Tipperary,County Council,2011,Apr,13
+South Tipperary,County Council,2011,May,33
+South Tipperary,County Council,2011,Jun,17
+South Tipperary,County Council,2011,Jul,19
+South Tipperary,County Council,2011,Aug,16
+South Tipperary,County Council,2011,Sept,15
+South Tipperary,County Council,2011,Oct,12
+South Tipperary,County Council,2011,Nov,16
+South Tipperary,County Council,2011,Dec,13
+Waterford,County Council,2011,Jan,28
+Waterford,County Council,2011,Feb,11
+Waterford,County Council,2011,Mar,18
+Waterford,County Council,2011,Apr,16
+Waterford,County Council,2011,May,17
+Waterford,County Council,2011,Jun,11
+Waterford,County Council,2011,Jul,8
+Waterford,County Council,2011,Aug,10
+Waterford,County Council,2011,Sept,16
+Waterford,County Council,2011,Oct,19
+Waterford,County Council,2011,Nov,16
+Waterford,County Council,2011,Dec,26
+Westmeath,County Council,2011,Jan,7
+Westmeath,County Council,2011,Feb,21
+Westmeath,County Council,2011,Mar,21
+Westmeath,County Council,2011,Apr,25
+Westmeath,County Council,2011,May,16
+Westmeath,County Council,2011,Jun,18
+Westmeath,County Council,2011,Jul,20
+Westmeath,County Council,2011,Aug,22
+Westmeath,County Council,2011,Sept,21
+Westmeath,County Council,2011,Oct,11
+Westmeath,County Council,2011,Nov,15
+Westmeath,County Council,2011,Dec,15
+Wexford,County Council,2011,Jan,22
+Wexford,County Council,2011,Feb,38
+Wexford,County Council,2011,Mar,36
+Wexford,County Council,2011,Apr,42
+Wexford,County Council,2011,May,39
+Wexford,County Council,2011,Jun,30
+Wexford,County Council,2011,Jul,45
+Wexford,County Council,2011,Aug,37
+Wexford,County Council,2011,Sept,54
+Wexford,County Council,2011,Oct,35
+Wexford,County Council,2011,Nov,34
+Wexford,County Council,2011,Dec,23
+Wicklow,County Council,2011,Jan,26
+Wicklow,County Council,2011,Feb,34
+Wicklow,County Council,2011,Mar,26
+Wicklow,County Council,2011,Apr,18
+Wicklow,County Council,2011,May,10
+Wicklow,County Council,2011,Jun,20
+Wicklow,County Council,2011,Jul,22
+Wicklow,County Council,2011,Aug,23
+Wicklow,County Council,2011,Sept,36
+Wicklow,County Council,2011,Oct,22
+Wicklow,County Council,2011,Nov,28
+Wicklow,County Council,2011,Dec,19
+Cork,City Council,2012,Jan,5
+Cork,City Council,2012,Feb,13
+Cork,City Council,2012,Mar,11
+Cork,City Council,2012,Apr,14
+Cork,City Council,2012,May,43
+Cork,City Council,2012,Jun,19
+Cork,City Council,2012,Jul,31
+Cork,City Council,2012,Aug,49
+Cork,City Council,2012,Sept,24
+Cork,City Council,2012,Oct,11
+Cork,City Council,2012,Nov,18
+Cork,City Council,2012,Dec,10
+Dublin,City Council,2012,Jan,53
+Dublin,City Council,2012,Feb,15
+Dublin,City Council,2012,Mar,47
+Dublin,City Council,2012,Apr,24
+Dublin,City Council,2012,May,48
+Dublin,City Council,2012,Jun,16
+Dublin,City Council,2012,Jul,31
+Dublin,City Council,2012,Aug,80
+Dublin,City Council,2012,Sept,38
+Dublin,City Council,2012,Oct,31
+Dublin,City Council,2012,Nov,71
+Dublin,City Council,2012,Dec,53
+Galway,City Council,2012,Jan,1
+Galway,City Council,2012,Feb,0
+Galway,City Council,2012,Mar,2
+Galway,City Council,2012,Apr,3
+Galway,City Council,2012,May,2
+Galway,City Council,2012,Jun,3
+Galway,City Council,2012,Jul,7
+Galway,City Council,2012,Aug,4
+Galway,City Council,2012,Sept,1
+Galway,City Council,2012,Oct,3
+Galway,City Council,2012,Nov,2
+Galway,City Council,2012,Dec,4
+Limerick,City Council,2012,Jan,1
+Limerick,City Council,2012,Feb,0
+Limerick,City Council,2012,Mar,1
+Limerick,City Council,2012,Apr,3
+Limerick,City Council,2012,May,13
+Limerick,City Council,2012,Jun,1
+Limerick,City Council,2012,Jul,2
+Limerick,City Council,2012,Aug,13
+Limerick,City Council,2012,Sept,6
+Limerick,City Council,2012,Oct,34
+Limerick,City Council,2012,Nov,9
+Limerick,City Council,2012,Dec,16
+Waterford,City Council,2012,Jan,6
+Waterford,City Council,2012,Feb,2
+Waterford,City Council,2012,Mar,7
+Waterford,City Council,2012,Apr,4
+Waterford,City Council,2012,May,3
+Waterford,City Council,2012,Jun,3
+Waterford,City Council,2012,Jul,1
+Waterford,City Council,2012,Aug,8
+Waterford,City Council,2012,Sept,3
+Waterford,City Council,2012,Oct,6
+Waterford,City Council,2012,Nov,4
+Waterford,City Council,2012,Dec,8
+Carlow,County Council,2012,Jan,7
+Carlow,County Council,2012,Feb,12
+Carlow,County Council,2012,Mar,8
+Carlow,County Council,2012,Apr,9
+Carlow,County Council,2012,May,10
+Carlow,County Council,2012,Jun,10
+Carlow,County Council,2012,Jul,15
+Carlow,County Council,2012,Aug,8
+Carlow,County Council,2012,Sept,7
+Carlow,County Council,2012,Oct,10
+Carlow,County Council,2012,Nov,13
+Carlow,County Council,2012,Dec,7
+Cavan,County Council,2012,Jan,9
+Cavan,County Council,2012,Feb,12
+Cavan,County Council,2012,Mar,16
+Cavan,County Council,2012,Apr,9
+Cavan,County Council,2012,May,15
+Cavan,County Council,2012,Jun,19
+Cavan,County Council,2012,Jul,16
+Cavan,County Council,2012,Aug,18
+Cavan,County Council,2012,Sept,15
+Cavan,County Council,2012,Oct,22
+Cavan,County Council,2012,Nov,24
+Cavan,County Council,2012,Dec,18
+Clare,County Council,2012,Jan,37
+Clare,County Council,2012,Feb,20
+Clare,County Council,2012,Mar,14
+Clare,County Council,2012,Apr,12
+Clare,County Council,2012,May,22
+Clare,County Council,2012,Jun,21
+Clare,County Council,2012,Jul,14
+Clare,County Council,2012,Aug,27
+Clare,County Council,2012,Sept,21
+Clare,County Council,2012,Oct,23
+Clare,County Council,2012,Nov,24
+Clare,County Council,2012,Dec,21
+Cork,County Council,2012,Jan,69
+Cork,County Council,2012,Feb,71
+Cork,County Council,2012,Mar,85
+Cork,County Council,2012,Apr,62
+Cork,County Council,2012,May,105
+Cork,County Council,2012,Jun,63
+Cork,County Council,2012,Jul,79
+Cork,County Council,2012,Aug,87
+Cork,County Council,2012,Sept,84
+Cork,County Council,2012,Oct,74
+Cork,County Council,2012,Nov,98
+Cork,County Council,2012,Dec,88
+Donegal,County Council,2012,Jan,57
+Donegal,County Council,2012,Feb,60
+Donegal,County Council,2012,Mar,42
+Donegal,County Council,2012,Apr,34
+Donegal,County Council,2012,May,37
+Donegal,County Council,2012,Jun,40
+Donegal,County Council,2012,Jul,45
+Donegal,County Council,2012,Aug,50
+Donegal,County Council,2012,Sept,36
+Donegal,County Council,2012,Oct,34
+Donegal,County Council,2012,Nov,33
+Donegal,County Council,2012,Dec,43
+Dun Laoghaire,County Council,2012,Jan,2
+Dun Laoghaire,County Council,2012,Feb,9
+Dun Laoghaire,County Council,2012,Mar,6
+Dun Laoghaire,County Council,2012,Apr,7
+Dun Laoghaire,County Council,2012,May,7
+Dun Laoghaire,County Council,2012,Jun,6
+Dun Laoghaire,County Council,2012,Jul,10
+Dun Laoghaire,County Council,2012,Aug,8
+Dun Laoghaire,County Council,2012,Sept,15
+Dun Laoghaire,County Council,2012,Oct,18
+Dun Laoghaire,County Council,2012,Nov,34
+Dun Laoghaire,County Council,2012,Dec,53
+Fingal,County Council,2012,Jan,22
+Fingal,County Council,2012,Feb,23
+Fingal,County Council,2012,Mar,35
+Fingal,County Council,2012,Apr,17
+Fingal,County Council,2012,May,22
+Fingal,County Council,2012,Jun,48
+Fingal,County Council,2012,Jul,35
+Fingal,County Council,2012,Aug,27
+Fingal,County Council,2012,Sept,17
+Fingal,County Council,2012,Oct,25
+Fingal,County Council,2012,Nov,47
+Fingal,County Council,2012,Dec,46
+Galway,County Council,2012,Jan,41
+Galway,County Council,2012,Feb,32
+Galway,County Council,2012,Mar,40
+Galway,County Council,2012,Apr,51
+Galway,County Council,2012,May,42
+Galway,County Council,2012,Jun,25
+Galway,County Council,2012,Jul,34
+Galway,County Council,2012,Aug,40
+Galway,County Council,2012,Sept,37
+Galway,County Council,2012,Oct,48
+Galway,County Council,2012,Nov,42
+Galway,County Council,2012,Dec,35
+Kerry,County Council,2012,Jan,15
+Kerry,County Council,2012,Feb,34
+Kerry,County Council,2012,Mar,31
+Kerry,County Council,2012,Apr,24
+Kerry,County Council,2012,May,37
+Kerry,County Council,2012,Jun,23
+Kerry,County Council,2012,Jul,25
+Kerry,County Council,2012,Aug,22
+Kerry,County Council,2012,Sept,20
+Kerry,County Council,2012,Oct,62
+Kerry,County Council,2012,Nov,33
+Kerry,County Council,2012,Dec,22
+Kildare,County Council,2012,Jan,21
+Kildare,County Council,2012,Feb,40
+Kildare,County Council,2012,Mar,30
+Kildare,County Council,2012,Apr,24
+Kildare,County Council,2012,May,23
+Kildare,County Council,2012,Jun,32
+Kildare,County Council,2012,Jul,17
+Kildare,County Council,2012,Aug,26
+Kildare,County Council,2012,Sept,39
+Kildare,County Council,2012,Oct,31
+Kildare,County Council,2012,Nov,37
+Kildare,County Council,2012,Dec,52
+Kilkenny,County Council,2012,Jan,8
+Kilkenny,County Council,2012,Feb,13
+Kilkenny,County Council,2012,Mar,12
+Kilkenny,County Council,2012,Apr,14
+Kilkenny,County Council,2012,May,6
+Kilkenny,County Council,2012,Jun,12
+Kilkenny,County Council,2012,Jul,11
+Kilkenny,County Council,2012,Aug,9
+Kilkenny,County Council,2012,Sept,13
+Kilkenny,County Council,2012,Oct,35
+Kilkenny,County Council,2012,Nov,13
+Kilkenny,County Council,2012,Dec,11
+Laois,County Council,2012,Jan,9
+Laois,County Council,2012,Feb,18
+Laois,County Council,2012,Mar,13
+Laois,County Council,2012,Apr,45
+Laois,County Council,2012,May,29
+Laois,County Council,2012,Jun,16
+Laois,County Council,2012,Jul,17
+Laois,County Council,2012,Aug,12
+Laois,County Council,2012,Sept,27
+Laois,County Council,2012,Oct,17
+Laois,County Council,2012,Nov,23
+Laois,County Council,2012,Dec,14
+Leitrim,County Council,2012,Jan,11
+Leitrim,County Council,2012,Feb,5
+Leitrim,County Council,2012,Mar,14
+Leitrim,County Council,2012,Apr,5
+Leitrim,County Council,2012,May,7
+Leitrim,County Council,2012,Jun,8
+Leitrim,County Council,2012,Jul,1
+Leitrim,County Council,2012,Aug,10
+Leitrim,County Council,2012,Sept,9
+Leitrim,County Council,2012,Oct,10
+Leitrim,County Council,2012,Nov,3
+Leitrim,County Council,2012,Dec,3
+Limerick,County Council,2012,Jan,11
+Limerick,County Council,2012,Feb,14
+Limerick,County Council,2012,Mar,16
+Limerick,County Council,2012,Apr,20
+Limerick,County Council,2012,May,24
+Limerick,County Council,2012,Jun,23
+Limerick,County Council,2012,Jul,10
+Limerick,County Council,2012,Aug,19
+Limerick,County Council,2012,Sept,20
+Limerick,County Council,2012,Oct,16
+Limerick,County Council,2012,Nov,27
+Limerick,County Council,2012,Dec,30
+Longford,County Council,2012,Jan,3
+Longford,County Council,2012,Feb,7
+Longford,County Council,2012,Mar,15
+Longford,County Council,2012,Apr,20
+Longford,County Council,2012,May,6
+Longford,County Council,2012,Jun,14
+Longford,County Council,2012,Jul,13
+Longford,County Council,2012,Aug,12
+Longford,County Council,2012,Sept,11
+Longford,County Council,2012,Oct,5
+Longford,County Council,2012,Nov,6
+Longford,County Council,2012,Dec,3
+Louth,County Council,2012,Jan,14
+Louth,County Council,2012,Feb,11
+Louth,County Council,2012,Mar,15
+Louth,County Council,2012,Apr,9
+Louth,County Council,2012,May,17
+Louth,County Council,2012,Jun,13
+Louth,County Council,2012,Jul,23
+Louth,County Council,2012,Aug,36
+Louth,County Council,2012,Sept,22
+Louth,County Council,2012,Oct,33
+Louth,County Council,2012,Nov,29
+Louth,County Council,2012,Dec,46
+Mayo,County Council,2012,Jan,15
+Mayo,County Council,2012,Feb,18
+Mayo,County Council,2012,Mar,25
+Mayo,County Council,2012,Apr,23
+Mayo,County Council,2012,May,28
+Mayo,County Council,2012,Jun,28
+Mayo,County Council,2012,Jul,22
+Mayo,County Council,2012,Aug,27
+Mayo,County Council,2012,Sept,33
+Mayo,County Council,2012,Oct,16
+Mayo,County Council,2012,Nov,34
+Mayo,County Council,2012,Dec,21
+Meath,County Council,2012,Jan,22
+Meath,County Council,2012,Feb,26
+Meath,County Council,2012,Mar,21
+Meath,County Council,2012,Apr,24
+Meath,County Council,2012,May,32
+Meath,County Council,2012,Jun,24
+Meath,County Council,2012,Jul,48
+Meath,County Council,2012,Aug,24
+Meath,County Council,2012,Sept,27
+Meath,County Council,2012,Oct,34
+Meath,County Council,2012,Nov,39
+Meath,County Council,2012,Dec,32
+Monaghan,County Council,2012,Jan,15
+Monaghan,County Council,2012,Feb,33
+Monaghan,County Council,2012,Mar,8
+Monaghan,County Council,2012,Apr,12
+Monaghan,County Council,2012,May,9
+Monaghan,County Council,2012,Jun,7
+Monaghan,County Council,2012,Jul,7
+Monaghan,County Council,2012,Aug,22
+Monaghan,County Council,2012,Sept,9
+Monaghan,County Council,2012,Oct,10
+Monaghan,County Council,2012,Nov,11
+Monaghan,County Council,2012,Dec,6
+North Tipperary,County Council,2012,Jan,13
+North Tipperary,County Council,2012,Feb,18
+North Tipperary,County Council,2012,Mar,14
+North Tipperary,County Council,2012,Apr,10
+North Tipperary,County Council,2012,May,11
+North Tipperary,County Council,2012,Jun,6
+North Tipperary,County Council,2012,Jul,19
+North Tipperary,County Council,2012,Aug,14
+North Tipperary,County Council,2012,Sept,14
+North Tipperary,County Council,2012,Oct,13
+North Tipperary,County Council,2012,Nov,10
+North Tipperary,County Council,2012,Dec,9
+Offaly,County Council,2012,Jan,11
+Offaly,County Council,2012,Feb,11
+Offaly,County Council,2012,Mar,6
+Offaly,County Council,2012,Apr,9
+Offaly,County Council,2012,May,17
+Offaly,County Council,2012,Jun,13
+Offaly,County Council,2012,Jul,15
+Offaly,County Council,2012,Aug,9
+Offaly,County Council,2012,Sept,10
+Offaly,County Council,2012,Oct,12
+Offaly,County Council,2012,Nov,9
+Offaly,County Council,2012,Dec,22
+Roscommon,County Council,2012,Jan,14
+Roscommon,County Council,2012,Feb,14
+Roscommon,County Council,2012,Mar,8
+Roscommon,County Council,2012,Apr,15
+Roscommon,County Council,2012,May,11
+Roscommon,County Council,2012,Jun,12
+Roscommon,County Council,2012,Jul,13
+Roscommon,County Council,2012,Aug,6
+Roscommon,County Council,2012,Sept,9
+Roscommon,County Council,2012,Oct,10
+Roscommon,County Council,2012,Nov,15
+Roscommon,County Council,2012,Dec,18
+Sligo,County Council,2012,Jan,28
+Sligo,County Council,2012,Feb,34
+Sligo,County Council,2012,Mar,33
+Sligo,County Council,2012,Apr,18
+Sligo,County Council,2012,May,18
+Sligo,County Council,2012,Jun,52
+Sligo,County Council,2012,Jul,9
+Sligo,County Council,2012,Aug,16
+Sligo,County Council,2012,Sept,11
+Sligo,County Council,2012,Oct,24
+Sligo,County Council,2012,Nov,12
+Sligo,County Council,2012,Dec,10
+South Dublin,County Council,2012,Jan,49
+South Dublin,County Council,2012,Feb,8
+South Dublin,County Council,2012,Mar,8
+South Dublin,County Council,2012,Apr,12
+South Dublin,County Council,2012,May,12
+South Dublin,County Council,2012,Jun,8
+South Dublin,County Council,2012,Jul,18
+South Dublin,County Council,2012,Aug,17
+South Dublin,County Council,2012,Sept,3
+South Dublin,County Council,2012,Oct,28
+South Dublin,County Council,2012,Nov,22
+South Dublin,County Council,2012,Dec,35
+South Tipperary,County Council,2012,Jan,7
+South Tipperary,County Council,2012,Feb,9
+South Tipperary,County Council,2012,Mar,9
+South Tipperary,County Council,2012,Apr,9
+South Tipperary,County Council,2012,May,6
+South Tipperary,County Council,2012,Jun,10
+South Tipperary,County Council,2012,Jul,15
+South Tipperary,County Council,2012,Aug,7
+South Tipperary,County Council,2012,Sept,9
+South Tipperary,County Council,2012,Oct,9
+South Tipperary,County Council,2012,Nov,8
+South Tipperary,County Council,2012,Dec,15
+Waterford,County Council,2012,Jan,10
+Waterford,County Council,2012,Feb,14
+Waterford,County Council,2012,Mar,10
+Waterford,County Council,2012,Apr,14
+Waterford,County Council,2012,May,12
+Waterford,County Council,2012,Jun,17
+Waterford,County Council,2012,Jul,14
+Waterford,County Council,2012,Aug,4
+Waterford,County Council,2012,Sept,15
+Waterford,County Council,2012,Oct,9
+Waterford,County Council,2012,Nov,28
+Waterford,County Council,2012,Dec,15
+Westmeath,County Council,2012,Jan,13
+Westmeath,County Council,2012,Feb,12
+Westmeath,County Council,2012,Mar,8
+Westmeath,County Council,2012,Apr,22
+Westmeath,County Council,2012,May,10
+Westmeath,County Council,2012,Jun,16
+Westmeath,County Council,2012,Jul,14
+Westmeath,County Council,2012,Aug,8
+Westmeath,County Council,2012,Sept,18
+Westmeath,County Council,2012,Oct,19
+Westmeath,County Council,2012,Nov,15
+Westmeath,County Council,2012,Dec,15
+Wexford,County Council,2012,Jan,17
+Wexford,County Council,2012,Feb,17
+Wexford,County Council,2012,Mar,40
+Wexford,County Council,2012,Apr,27
+Wexford,County Council,2012,May,26
+Wexford,County Council,2012,Jun,24
+Wexford,County Council,2012,Jul,21
+Wexford,County Council,2012,Aug,17
+Wexford,County Council,2012,Sept,24
+Wexford,County Council,2012,Oct,32
+Wexford,County Council,2012,Nov,36
+Wexford,County Council,2012,Dec,24
+Wicklow,County Council,2012,Jan,11
+Wicklow,County Council,2012,Feb,14
+Wicklow,County Council,2012,Mar,15
+Wicklow,County Council,2012,Apr,17
+Wicklow,County Council,2012,May,20
+Wicklow,County Council,2012,Jun,14
+Wicklow,County Council,2012,Jul,14
+Wicklow,County Council,2012,Aug,36
+Wicklow,County Council,2012,Sept,22
+Wicklow,County Council,2012,Oct,15
+Wicklow,County Council,2012,Nov,18
+Wicklow,County Council,2012,Dec,21
+Cork,City Council,2013,Jan,3
+Cork,City Council,2013,Feb,19
+Cork,City Council,2013,Mar,15
+Cork,City Council,2013,Apr,36
+Cork,City Council,2013,May,10
+Cork,City Council,2013,Jun,49
+Cork,City Council,2013,Jul,14
+Cork,City Council,2013,Aug,7
+Cork,City Council,2013,Sept,4
+Cork,City Council,2013,Oct,43
+Cork,City Council,2013,Nov,22
+Cork,City Council,2013,Dec,16
+Dublin,City Council,2013,Jan,34
+Dublin,City Council,2013,Feb,47
+Dublin,City Council,2013,Mar,26
+Dublin,City Council,2013,Apr,40
+Dublin,City Council,2013,May,19
+Dublin,City Council,2013,Jun,106
+Dublin,City Council,2013,Jul,50
+Dublin,City Council,2013,Aug,34
+Dublin,City Council,2013,Sept,28
+Dublin,City Council,2013,Oct,38
+Dublin,City Council,2013,Nov,34
+Dublin,City Council,2013,Dec,46
+Galway,City Council,2013,Jan,6
+Galway,City Council,2013,Feb,3
+Galway,City Council,2013,Mar,3
+Galway,City Council,2013,Apr,5
+Galway,City Council,2013,May,27
+Galway,City Council,2013,Jun,3
+Galway,City Council,2013,Jul,7
+Galway,City Council,2013,Aug,3
+Galway,City Council,2013,Sept,2
+Galway,City Council,2013,Oct,1
+Galway,City Council,2013,Nov,8
+Galway,City Council,2013,Dec,15
+Limerick,City Council,2013,Jan,10
+Limerick,City Council,2013,Feb,3
+Limerick,City Council,2013,Mar,5
+Limerick,City Council,2013,Apr,2
+Limerick,City Council,2013,May,5
+Limerick,City Council,2013,Jun,2
+Limerick,City Council,2013,Jul,0
+Limerick,City Council,2013,Aug,3
+Limerick,City Council,2013,Sept,2
+Limerick,City Council,2013,Oct,3
+Limerick,City Council,2013,Nov,32
+Limerick,City Council,2013,Dec,39
+Waterford,City Council,2013,Jan,3
+Waterford,City Council,2013,Feb,1
+Waterford,City Council,2013,Mar,5
+Waterford,City Council,2013,Apr,7
+Waterford,City Council,2013,May,3
+Waterford,City Council,2013,Jun,4
+Waterford,City Council,2013,Jul,2
+Waterford,City Council,2013,Aug,9
+Waterford,City Council,2013,Sept,7
+Waterford,City Council,2013,Oct,16
+Waterford,City Council,2013,Nov,5
+Waterford,City Council,2013,Dec,26
+Carlow,County Council,2013,Jan,6
+Carlow,County Council,2013,Feb,10
+Carlow,County Council,2013,Mar,11
+Carlow,County Council,2013,Apr,10
+Carlow,County Council,2013,May,8
+Carlow,County Council,2013,Jun,26
+Carlow,County Council,2013,Jul,21
+Carlow,County Council,2013,Aug,5
+Carlow,County Council,2013,Sept,28
+Carlow,County Council,2013,Oct,14
+Carlow,County Council,2013,Nov,14
+Carlow,County Council,2013,Dec,16
+Cavan,County Council,2013,Jan,11
+Cavan,County Council,2013,Feb,19
+Cavan,County Council,2013,Mar,15
+Cavan,County Council,2013,Apr,17
+Cavan,County Council,2013,May,13
+Cavan,County Council,2013,Jun,10
+Cavan,County Council,2013,Jul,15
+Cavan,County Council,2013,Aug,16
+Cavan,County Council,2013,Sept,11
+Cavan,County Council,2013,Oct,11
+Cavan,County Council,2013,Nov,14
+Cavan,County Council,2013,Dec,21
+Clare,County Council,2013,Jan,12
+Clare,County Council,2013,Feb,12
+Clare,County Council,2013,Mar,22
+Clare,County Council,2013,Apr,21
+Clare,County Council,2013,May,22
+Clare,County Council,2013,Jun,15
+Clare,County Council,2013,Jul,19
+Clare,County Council,2013,Aug,14
+Clare,County Council,2013,Sept,13
+Clare,County Council,2013,Oct,19
+Clare,County Council,2013,Nov,26
+Clare,County Council,2013,Dec,20
+Cork,County Council,2013,Jan,51
+Cork,County Council,2013,Feb,56
+Cork,County Council,2013,Mar,54
+Cork,County Council,2013,Apr,69
+Cork,County Council,2013,May,83
+Cork,County Council,2013,Jun,67
+Cork,County Council,2013,Jul,86
+Cork,County Council,2013,Aug,77
+Cork,County Council,2013,Sept,82
+Cork,County Council,2013,Oct,81
+Cork,County Council,2013,Nov,90
+Cork,County Council,2013,Dec,67
+Donegal,County Council,2013,Jan,17
+Donegal,County Council,2013,Feb,41
+Donegal,County Council,2013,Mar,34
+Donegal,County Council,2013,Apr,29
+Donegal,County Council,2013,May,40
+Donegal,County Council,2013,Jun,31
+Donegal,County Council,2013,Jul,29
+Donegal,County Council,2013,Aug,33
+Donegal,County Council,2013,Sept,35
+Donegal,County Council,2013,Oct,42
+Donegal,County Council,2013,Nov,41
+Donegal,County Council,2013,Dec,28
+Dun Laoghaire,County Council,2013,Jan,6
+Dun Laoghaire,County Council,2013,Feb,18
+Dun Laoghaire,County Council,2013,Mar,9
+Dun Laoghaire,County Council,2013,Apr,9
+Dun Laoghaire,County Council,2013,May,6
+Dun Laoghaire,County Council,2013,Jun,13
+Dun Laoghaire,County Council,2013,Jul,10
+Dun Laoghaire,County Council,2013,Aug,17
+Dun Laoghaire,County Council,2013,Sept,13
+Dun Laoghaire,County Council,2013,Oct,49
+Dun Laoghaire,County Council,2013,Nov,56
+Dun Laoghaire,County Council,2013,Dec,54
+Fingal,County Council,2013,Jan,17
+Fingal,County Council,2013,Feb,30
+Fingal,County Council,2013,Mar,32
+Fingal,County Council,2013,Apr,21
+Fingal,County Council,2013,May,44
+Fingal,County Council,2013,Jun,22
+Fingal,County Council,2013,Jul,55
+Fingal,County Council,2013,Aug,14
+Fingal,County Council,2013,Sept,30
+Fingal,County Council,2013,Oct,33
+Fingal,County Council,2013,Nov,54
+Fingal,County Council,2013,Dec,43
+Galway,County Council,2013,Jan,24
+Galway,County Council,2013,Feb,42
+Galway,County Council,2013,Mar,38
+Galway,County Council,2013,Apr,38
+Galway,County Council,2013,May,28
+Galway,County Council,2013,Jun,21
+Galway,County Council,2013,Jul,37
+Galway,County Council,2013,Aug,23
+Galway,County Council,2013,Sept,49
+Galway,County Council,2013,Oct,56
+Galway,County Council,2013,Nov,42
+Galway,County Council,2013,Dec,28
+Kerry,County Council,2013,Jan,20
+Kerry,County Council,2013,Feb,26
+Kerry,County Council,2013,Mar,15
+Kerry,County Council,2013,Apr,17
+Kerry,County Council,2013,May,31
+Kerry,County Council,2013,Jun,25
+Kerry,County Council,2013,Jul,38
+Kerry,County Council,2013,Aug,22
+Kerry,County Council,2013,Sept,31
+Kerry,County Council,2013,Oct,44
+Kerry,County Council,2013,Nov,29
+Kerry,County Council,2013,Dec,33
+Kildare,County Council,2013,Jan,24
+Kildare,County Council,2013,Feb,40
+Kildare,County Council,2013,Mar,26
+Kildare,County Council,2013,Apr,60
+Kildare,County Council,2013,May,26
+Kildare,County Council,2013,Jun,33
+Kildare,County Council,2013,Jul,37
+Kildare,County Council,2013,Aug,53
+Kildare,County Council,2013,Sept,33
+Kildare,County Council,2013,Oct,47
+Kildare,County Council,2013,Nov,34
+Kildare,County Council,2013,Dec,34
+Kilkenny,County Council,2013,Jan,10
+Kilkenny,County Council,2013,Feb,4
+Kilkenny,County Council,2013,Mar,13
+Kilkenny,County Council,2013,Apr,18
+Kilkenny,County Council,2013,May,15
+Kilkenny,County Council,2013,Jun,21
+Kilkenny,County Council,2013,Jul,21
+Kilkenny,County Council,2013,Aug,14
+Kilkenny,County Council,2013,Sept,13
+Kilkenny,County Council,2013,Oct,16
+Kilkenny,County Council,2013,Nov,21
+Kilkenny,County Council,2013,Dec,13
+Laois,County Council,2013,Jan,8
+Laois,County Council,2013,Feb,11
+Laois,County Council,2013,Mar,11
+Laois,County Council,2013,Apr,24
+Laois,County Council,2013,May,14
+Laois,County Council,2013,Jun,8
+Laois,County Council,2013,Jul,19
+Laois,County Council,2013,Aug,15
+Laois,County Council,2013,Sept,6
+Laois,County Council,2013,Oct,19
+Laois,County Council,2013,Nov,27
+Laois,County Council,2013,Dec,26
+Leitrim,County Council,2013,Jan,17
+Leitrim,County Council,2013,Feb,7
+Leitrim,County Council,2013,Mar,3
+Leitrim,County Council,2013,Apr,13
+Leitrim,County Council,2013,May,4
+Leitrim,County Council,2013,Jun,3
+Leitrim,County Council,2013,Jul,6
+Leitrim,County Council,2013,Aug,8
+Leitrim,County Council,2013,Sept,9
+Leitrim,County Council,2013,Oct,2
+Leitrim,County Council,2013,Nov,10
+Leitrim,County Council,2013,Dec,8
+Limerick,County Council,2013,Jan,14
+Limerick,County Council,2013,Feb,16
+Limerick,County Council,2013,Mar,20
+Limerick,County Council,2013,Apr,27
+Limerick,County Council,2013,May,20
+Limerick,County Council,2013,Jun,14
+Limerick,County Council,2013,Jul,15
+Limerick,County Council,2013,Aug,13
+Limerick,County Council,2013,Sept,16
+Limerick,County Council,2013,Oct,35
+Limerick,County Council,2013,Nov,24
+Limerick,County Council,2013,Dec,21
+Longford,County Council,2013,Jan,4
+Longford,County Council,2013,Feb,9
+Longford,County Council,2013,Mar,8
+Longford,County Council,2013,Apr,7
+Longford,County Council,2013,May,7
+Longford,County Council,2013,Jun,2
+Longford,County Council,2013,Jul,15
+Longford,County Council,2013,Aug,10
+Longford,County Council,2013,Sept,6
+Longford,County Council,2013,Oct,8
+Longford,County Council,2013,Nov,9
+Longford,County Council,2013,Dec,5
+Louth,County Council,2013,Jan,25
+Louth,County Council,2013,Feb,10
+Louth,County Council,2013,Mar,22
+Louth,County Council,2013,Apr,23
+Louth,County Council,2013,May,19
+Louth,County Council,2013,Jun,52
+Louth,County Council,2013,Jul,40
+Louth,County Council,2013,Aug,14
+Louth,County Council,2013,Sept,30
+Louth,County Council,2013,Oct,20
+Louth,County Council,2013,Nov,23
+Louth,County Council,2013,Dec,32
+Mayo,County Council,2013,Jan,16
+Mayo,County Council,2013,Feb,22
+Mayo,County Council,2013,Mar,16
+Mayo,County Council,2013,Apr,21
+Mayo,County Council,2013,May,25
+Mayo,County Council,2013,Jun,23
+Mayo,County Council,2013,Jul,23
+Mayo,County Council,2013,Aug,24
+Mayo,County Council,2013,Sept,20
+Mayo,County Council,2013,Oct,33
+Mayo,County Council,2013,Nov,39
+Mayo,County Council,2013,Dec,50
+Meath,County Council,2013,Jan,16
+Meath,County Council,2013,Feb,24
+Meath,County Council,2013,Mar,36
+Meath,County Council,2013,Apr,27
+Meath,County Council,2013,May,26
+Meath,County Council,2013,Jun,18
+Meath,County Council,2013,Jul,21
+Meath,County Council,2013,Aug,21
+Meath,County Council,2013,Sept,15
+Meath,County Council,2013,Oct,23
+Meath,County Council,2013,Nov,27
+Meath,County Council,2013,Dec,32
+Monaghan,County Council,2013,Jan,11
+Monaghan,County Council,2013,Feb,9
+Monaghan,County Council,2013,Mar,5
+Monaghan,County Council,2013,Apr,10
+Monaghan,County Council,2013,May,8
+Monaghan,County Council,2013,Jun,9
+Monaghan,County Council,2013,Jul,6
+Monaghan,County Council,2013,Aug,15
+Monaghan,County Council,2013,Sept,20
+Monaghan,County Council,2013,Oct,15
+Monaghan,County Council,2013,Nov,22
+Monaghan,County Council,2013,Dec,20
+North Tipperary,County Council,2013,Jan,7
+North Tipperary,County Council,2013,Feb,7
+North Tipperary,County Council,2013,Mar,8
+North Tipperary,County Council,2013,Apr,15
+North Tipperary,County Council,2013,May,13
+North Tipperary,County Council,2013,Jun,4
+North Tipperary,County Council,2013,Jul,9
+North Tipperary,County Council,2013,Aug,15
+North Tipperary,County Council,2013,Sept,14
+North Tipperary,County Council,2013,Oct,11
+North Tipperary,County Council,2013,Nov,13
+North Tipperary,County Council,2013,Dec,16
+Offaly,County Council,2013,Jan,7
+Offaly,County Council,2013,Feb,6
+Offaly,County Council,2013,Mar,12
+Offaly,County Council,2013,Apr,11
+Offaly,County Council,2013,May,10
+Offaly,County Council,2013,Jun,13
+Offaly,County Council,2013,Jul,5
+Offaly,County Council,2013,Aug,10
+Offaly,County Council,2013,Sept,7
+Offaly,County Council,2013,Oct,15
+Offaly,County Council,2013,Nov,15
+Offaly,County Council,2013,Dec,6
+Roscommon,County Council,2013,Jan,17
+Roscommon,County Council,2013,Feb,18
+Roscommon,County Council,2013,Mar,12
+Roscommon,County Council,2013,Apr,15
+Roscommon,County Council,2013,May,10
+Roscommon,County Council,2013,Jun,10
+Roscommon,County Council,2013,Jul,9
+Roscommon,County Council,2013,Aug,6
+Roscommon,County Council,2013,Sept,25
+Roscommon,County Council,2013,Oct,13
+Roscommon,County Council,2013,Nov,22
+Roscommon,County Council,2013,Dec,17
+Sligo,County Council,2013,Jan,31
+Sligo,County Council,2013,Feb,8
+Sligo,County Council,2013,Mar,11
+Sligo,County Council,2013,Apr,8
+Sligo,County Council,2013,May,8
+Sligo,County Council,2013,Jun,10
+Sligo,County Council,2013,Jul,7
+Sligo,County Council,2013,Aug,15
+Sligo,County Council,2013,Sept,13
+Sligo,County Council,2013,Oct,13
+Sligo,County Council,2013,Nov,14
+Sligo,County Council,2013,Dec,23
+South Dublin,County Council,2013,Jan,13
+South Dublin,County Council,2013,Feb,7
+South Dublin,County Council,2013,Mar,6
+South Dublin,County Council,2013,Apr,4
+South Dublin,County Council,2013,May,9
+South Dublin,County Council,2013,Jun,14
+South Dublin,County Council,2013,Jul,11
+South Dublin,County Council,2013,Aug,18
+South Dublin,County Council,2013,Sept,13
+South Dublin,County Council,2013,Oct,32
+South Dublin,County Council,2013,Nov,38
+South Dublin,County Council,2013,Dec,38
+South Tipperary,County Council,2013,Jan,10
+South Tipperary,County Council,2013,Feb,7
+South Tipperary,County Council,2013,Mar,19
+South Tipperary,County Council,2013,Apr,16
+South Tipperary,County Council,2013,May,9
+South Tipperary,County Council,2013,Jun,4
+South Tipperary,County Council,2013,Jul,5
+South Tipperary,County Council,2013,Aug,12
+South Tipperary,County Council,2013,Sept,10
+South Tipperary,County Council,2013,Oct,11
+South Tipperary,County Council,2013,Nov,17
+South Tipperary,County Council,2013,Dec,14
+Waterford,County Council,2013,Jan,8
+Waterford,County Council,2013,Feb,12
+Waterford,County Council,2013,Mar,12
+Waterford,County Council,2013,Apr,7
+Waterford,County Council,2013,May,8
+Waterford,County Council,2013,Jun,12
+Waterford,County Council,2013,Jul,7
+Waterford,County Council,2013,Aug,14
+Waterford,County Council,2013,Sept,13
+Waterford,County Council,2013,Oct,9
+Waterford,County Council,2013,Nov,10
+Waterford,County Council,2013,Dec,11
+Westmeath,County Council,2013,Jan,12
+Westmeath,County Council,2013,Feb,11
+Westmeath,County Council,2013,Mar,13
+Westmeath,County Council,2013,Apr,19
+Westmeath,County Council,2013,May,9
+Westmeath,County Council,2013,Jun,10
+Westmeath,County Council,2013,Jul,14
+Westmeath,County Council,2013,Aug,13
+Westmeath,County Council,2013,Sept,17
+Westmeath,County Council,2013,Oct,13
+Westmeath,County Council,2013,Nov,16
+Westmeath,County Council,2013,Dec,11
+Wexford,County Council,2013,Jan,16
+Wexford,County Council,2013,Feb,16
+Wexford,County Council,2013,Mar,20
+Wexford,County Council,2013,Apr,30
+Wexford,County Council,2013,May,11
+Wexford,County Council,2013,Jun,25
+Wexford,County Council,2013,Jul,26
+Wexford,County Council,2013,Aug,20
+Wexford,County Council,2013,Sept,38
+Wexford,County Council,2013,Oct,25
+Wexford,County Council,2013,Nov,47
+Wexford,County Council,2013,Dec,32
+Wicklow,County Council,2013,Jan,25
+Wicklow,County Council,2013,Feb,33
+Wicklow,County Council,2013,Mar,19
+Wicklow,County Council,2013,Apr,23
+Wicklow,County Council,2013,May,17
+Wicklow,County Council,2013,Jun,24
+Wicklow,County Council,2013,Jul,26
+Wicklow,County Council,2013,Aug,17
+Wicklow,County Council,2013,Sept,20
+Wicklow,County Council,2013,Oct,15
+Wicklow,County Council,2013,Nov,23
+Wicklow,County Council,2013,Dec,15
